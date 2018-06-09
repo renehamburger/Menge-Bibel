@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "mapRoot": "./",
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "noFallthroughCasesInSwitch": true,
+    "noEmit": true,
+    "sourceMap": true,
+    "target": "es2017",
+    "baseUrl": ".",
+    "strict": true,
+    "types": []
+  }
+}
