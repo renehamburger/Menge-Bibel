@@ -56,7 +56,7 @@ async function getChapter(book: BibleBook, chapter: number) {
         html = `<title>${title}</title>\n${html}`;
       }
       fse.writeFileSync(htmlCacheFile, html, ENCODING);
-      await new Promise(resolve => setTimeout(resolve, 10000));
+      await new Promise(resolve => setTimeout(resolve, 1000));
     }
     //-- Process html
     html = replaceUnicodeEntities(html);
