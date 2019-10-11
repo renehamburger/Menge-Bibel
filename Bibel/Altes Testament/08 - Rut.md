@@ -15,8 +15,8 @@ __1__
 #### Aufbruch Noomis und ihrer beiden Schwiegertöchter zur Rückkehr nach Bethlehem • Orpas Abschied, Ruths Treue
 
 <sup>7</sup>Sie verließ also in Begleitung ihrer beiden Schwiegertöchter den Ort, wo sie bis dahin gewohnt hatte. Als sie aber ihres Weges zogen, um ins Land Juda zurückzukehren,
-<sup>8</sup>sagte Noomi zu ihren beiden Schwiegertöchtern: Kehrt jetzt wieder heim, eine jede ins Haus ihrer Mutter. Der HeRR segne euch für die Liebe<sup title="o. der Herr erweise euch Gnade; hebr. <i>chesed</i>; d. h. Güte/Liebe/Treue/Glaube/Solidarität/Schönheit/ Anmut; deshalb v. a. Liebestreue/Bundesliebe/Bundestreue; von hebr. <i>chasad</i>; d. h. sich mit jemand solidarisch erklären/treu sein">&#x2732;</sup>, die ihr den Verstorbenen und mir erwiesen habt!
-<sup>9</sup>Der HeRR vergönne euch beiden, ein ruhiges Heim<sup title="w. Ruhe/einen Rastplatz; hebr. <i>menuchah </i>">&#x2732;</sup> im Haus eines Gatten zu finden! Als Noomi sie hierauf geküsst hatte, begannen jene laut zu weinen
+<sup>8</sup>sagte Noomi zu ihren beiden Schwiegertöchtern: Kehrt jetzt wieder heim, eine jede ins Haus ihrer Mutter. Der HeRR segne euch für die Liebe<sup title="o. der Herr erweise euch Gnade; hebr. chesed; d. h. Güte/Liebe/Treue/Glaube/Solidarität/Schönheit/ Anmut; deshalb v. a. Liebestreue/Bundesliebe/Bundestreue; von hebr. chasad; d. h. sich mit jemand solidarisch erklären/treu sein">&#x2732;</sup>, die ihr den Verstorbenen und mir erwiesen habt!
+<sup>9</sup>Der HeRR vergönne euch beiden, ein ruhiges Heim<sup title="w. Ruhe/einen Rastplatz; hebr. menuchah">&#x2732;</sup> im Haus eines Gatten zu finden! Als Noomi sie hierauf geküsst hatte, begannen jene laut zu weinen
 <sup>10</sup>und sagten zu ihr: Nein, wir wollen dich zu deinem Volk<sup title="d. h. in deine Heimat">&#x2732;</sup> begleiten!
 <sup>11</sup>Aber Noomi entgegnete: Kehrt um, liebe Töchter! Warum wollt ihr mit mir gehen? Darf ich etwa noch hoffen, Söhnen das Leben zu geben, dass sie eure Männer werden könnten?
 <sup>12</sup>Nein, kehrt um, liebe Töchter! Geht heim! Ich bin ja zu alt, um nochmals zu heiraten. Und wenn ich auch dächte, noch Aussicht auf eine neue Ehe zu haben, ja, wenn ich noch in dieser Nacht die Frau eines Mannes und sogar Mutter von Söhnen würde:
@@ -46,7 +46,7 @@ __2__
 <sup>5</sup>Darauf fragte Boas den Großknecht bei seinen Schnittern<sup title="o. den jungen Mann, der über die Schnitter eingesetzt war">&#x2732;</sup>: Wem gehört das Mädchen<sup title="o. die junge Frau">&#x2732;</sup> da?
 <sup>6</sup>Der Großknecht antwortete: Es ist das moabitische Mädchen, das mit Noomi aus dem Land der Moabiter heimgekehrt ist.
 <sup>7</sup>Sie hat uns gebeten: Lasst mich doch Ähren lesen und zwischen den Garben sammeln hinter den Schnittern her! So ist sie denn gekommen und hat ausgehalten vom frühen Morgen an bis jetzt und sich keinen Augenblick Ruhe gegönnt.
-<sup>8</sup>Da sagte Boas zu Ruth: Hörst du wohl, meine Tochter? Du brauchst auf kein anderes Feld zu gehen, um dort aufzulesen, und brauchst auch nicht von hier wegzugehen, sondern schließe dich hier an meine Mägde<sup title="o. Mädchen; hebr. <i>na’arah</i>; so auch später">&#x2732;</sup> an!
+<sup>8</sup>Da sagte Boas zu Ruth: Hörst du wohl, meine Tochter? Du brauchst auf kein anderes Feld zu gehen, um dort aufzulesen, und brauchst auch nicht von hier wegzugehen, sondern schließe dich hier an meine Mägde<sup title="o. Mädchen; hebr. na’arah; so auch später">&#x2732;</sup> an!
 <sup>9</sup>Lass deine Augen immer auf das Feld gerichtet sein, wo sie schneiden, und gehe hinter ihnen her; ich habe auch den Knechten befohlen, dich nicht zu belästigen. Und wenn du Durst hast, so gehe nur zu den Gefäßen und trinke von dem Wasser, das die Knechte geholt haben!
 <sup>10</sup>Da warf sie sich mit dem Angesicht vor ihm auf die Erde nieder und sagte zu ihm: Wie kommt’s doch, dass du so freundlich zu mir bist und dich meiner annimmst, da ich doch eine Ausländerin bin?
 <sup>11</sup>Boas antwortete ihr: O es ist mir alles genau berichtet worden, was du an deiner Schwiegermutter nach dem Tod deines Mannes getan hast: Vater, Mutter und Heimatland hast du verlassen und bist zu einem Volk gezogen, das du früher nicht kanntest.
@@ -82,8 +82,8 @@ __3__
 #### Ruth bespricht sich mit Boas, erhält die gewünschte Zusage und kehrt mit einem Geschenk zu Noomi zurück
 
 <sup>8</sup>Da, um Mitternacht, fuhr der Mann aus dem Schlaf auf, und als er sich vorbeugte, sah er eine Frau zu seinen Füßen liegen.
-<sup>9</sup>Als er nun fragte: Wer bist du?, antwortete sie: Ich bin Ruth, deine Magd; breite also deine Flügel<sup title="d. h. Schutz, vgl. 2,12; o. den Saum deines Gewandes">&#x2732;</sup> über deine Magd aus; denn du bist Löser<sup title="hebr. <i>go’el</i>; d. h. [Bluts-]Verwandter, Löser, [Blut-]Rächer; vgl. 3Mo 25; 4Mo 35; so auch später">&#x2732;</sup> für mich!
-<sup>10</sup>Da erwiderte er: Gesegnet seist du vom HeRRn, meine Tochter! Du hast deine Liebe<sup title="hebr. <i>chesed</i>; d. h. Güte/Liebe/Treue/ Glaube/Solidarität/Schönheit/Anmut; deshalb v. a. Liebestreue/Bundesliebe/Bundestreue; von hebr. <i>chasad</i>; d. h. sich mit jemand solidarisch erklären/treu sein">&#x2732;</sup> [zu Noomi] zuletzt noch schöner betätigt als früher, indem du nicht den jungen Männern nachgelaufen bist, sie seien arm oder reich.
+<sup>9</sup>Als er nun fragte: Wer bist du?, antwortete sie: Ich bin Ruth, deine Magd; breite also deine Flügel<sup title="d. h. Schutz, vgl. 2,12; o. den Saum deines Gewandes">&#x2732;</sup> über deine Magd aus; denn du bist Löser<sup title="hebr. go’el; d. h. [Bluts-]Verwandter, Löser, [Blut-]Rächer; vgl. 3Mo 25; 4Mo 35; so auch später">&#x2732;</sup> für mich!
+<sup>10</sup>Da erwiderte er: Gesegnet seist du vom HeRRn, meine Tochter! Du hast deine Liebe<sup title="hebr. chesed; d. h. Güte/Liebe/Treue/ Glaube/Solidarität/Schönheit/Anmut; deshalb v. a. Liebestreue/Bundesliebe/Bundestreue; von hebr. chasad; d. h. sich mit jemand solidarisch erklären/treu sein">&#x2732;</sup> [zu Noomi] zuletzt noch schöner betätigt als früher, indem du nicht den jungen Männern nachgelaufen bist, sie seien arm oder reich.
 <sup>11</sup>Und nun, meine Tochter, sei ohne Angst! Alles, was du wünschst, will ich für dich tun; wissen doch alle Leute, die in unserem Ort auf dem Marktplatz am Stadttor zusammenkommen, dass du eine sittsame Frau<sup title="o. tüchtige Frau; w. eine Frau der Kraft/ der Stärke/des Vermögens; vgl. 2,1">&#x2732;</sup> bist.
 <sup>12</sup>Nun bin ich ja allerdings ein Löser für dich; aber es ist noch ein anderer Löser vorhanden, der näher mit dir verwandt ist als ich.
 <sup>13</sup>Bleibe über Nacht hier; morgen wird sich’s dann finden: Wenn er dich lösen will, gut, so mag er es tun! Hat er aber keine Lust dazu, so will ich dich lösen, so wahr der HeRR lebt! Bleibe nur liegen bis zum Morgen!
@@ -96,7 +96,7 @@ __3__
 ### Die öffentliche Verhandlung zwischen Boas und dem Löser
 
 __4__
-<sup>1</sup>Boas aber war zum Stadttor hinaufgegangen und hatte sich dort niedergesetzt. Als nun gerade der Löser<sup title="hebr. <i>go’el</i>; s. Anm. zu 3,9; so auch später">&#x2732;</sup> vorüberging, von dem Boas geredet hatte, rief er: Komm her und setze dich hierher, du Soundso! Als er nun gekommen war und sich gesetzt hatte,
+<sup>1</sup>Boas aber war zum Stadttor hinaufgegangen und hatte sich dort niedergesetzt. Als nun gerade der Löser<sup title="hebr. go’el; s. Anm. zu 3,9; so auch später">&#x2732;</sup> vorüberging, von dem Boas geredet hatte, rief er: Komm her und setze dich hierher, du Soundso! Als er nun gekommen war und sich gesetzt hatte,
 <sup>2</sup>holte [Boas] zehn Männer von den Ältesten<sup title="o. Vornehmsten">&#x2732;</sup> der Stadt und sagte zu ihnen: Setzt euch hier nieder! Als sie sich gesetzt hatten,
 <sup>3</sup>sagte er zu dem Löser: Das Stück Land<sup title="d. h. das Grundstück">&#x2732;</sup>, das unserem Verwandten Elimelech gehört hat, will Noomi verkaufen, die aus dem Land der Moabiter zurückgekehrt ist.
 <sup>4</sup>Nun habe ich gedacht, ich wollte dir einen Vorschlag machen, nämlich: Kaufe es in Gegenwart der hier Sitzenden und in Gegenwart der Ältesten meines Volkes! Willst du Löser sein, so sei Löser; wenn nicht, so gib mir eine Erklärung ab, damit ich Bescheid weiß; denn außer dir ist kein Löser da, und ich komme erst nach dir. Da erklärte jener: Ja, ich will Löser sein.
@@ -107,7 +107,7 @@ __4__
 <sup>9</sup>Darauf sagte Boas zu den Ältesten und zu allen anwesenden Leuten: Ihr seid heute Zeugen, dass ich alles, was dem Elimelech, und alles, was dem Kiljon und Machlon gehört hat, von Noomi gekauft habe;
 <sup>10</sup>aber auch die Moabiterin Ruth, die Witwe Machlons, habe ich mir zur Frau erkauft, um den Namen<sup title="d. h. das Geschlecht">&#x2732;</sup> des Verstorbenen auf seinem Erbbesitz fortzupflanzen, damit nicht der Name des Verstorbenen aus dem Kreis seiner Verwandten und aus dem Tor<sup title="d. h. der Bürgerschaft">&#x2732;</sup> seines Heimatortes verschwindet: Dafür seid ihr heute Zeugen!
 <sup>11</sup>Da erklärten alle im Stadttor Anwesenden und auch die Ältesten: Ja, wir sind Zeugen! Der HeRR gebe, dass die Frau, die in dein Haus einziehen soll, [so fruchtbar] werde wie Rahel und Lea, die beide das Haus Israel aufgebaut haben! Werde glücklich<sup title="o. Gewinne Kindersegen; w. Gewinne Kraft/Stärke/Vermögen; vgl. 2,1; 3,11">&#x2732;</sup> in Ephratha<sup title="vgl. 1,2">&#x2732;</sup> und schaffe dir einen Namen in Bethlehem!
-<sup>12</sup>Und dein Haus werde wie das Haus des Perez, den Thamar dem Juda geboren hat<sup title="vgl. 1Mo 38,29; 4Mo 26,21">&#x2732;</sup>, durch die Nachkommenschaft, die der HeRR dir von dieser jungen Frau<sup title="o. diesem Mädchen/dieser Magd; hebr. <i>na’arah </i>">&#x2732;</sup> bescheren wird!
+<sup>12</sup>Und dein Haus werde wie das Haus des Perez, den Thamar dem Juda geboren hat<sup title="vgl. 1Mo 38,29; 4Mo 26,21">&#x2732;</sup>, durch die Nachkommenschaft, die der HeRR dir von dieser jungen Frau<sup title="o. diesem Mädchen/dieser Magd; hebr. na’arah">&#x2732;</sup> bescheren wird!
 
 ### Boas’ Heirat mit Ruth • Segen ihrer Ehe durch die Geburt Obeds • Geschlechtsverzeichnis von Perez bis David
 
@@ -116,7 +116,7 @@ __4__
 <sup>15</sup>und möge er ein Trost für dein Herz sein und dein Versorger im Alter! Denn deine Schwiegertochter, die dich lieb hat, ist seine Mutter, sie, die dir mehr wert ist als sieben Söhne.
 <sup>16</sup>Da nahm Noomi das Kind, legte es auf ihren Schoß und wurde seine Wärterin.
 <sup>17</sup>Die Nachbarinnen aber legten ihm einen Namen bei, indem sie sagten: Ein Sohn ist der Noomi geboren!, und sie nannten ihn Obed<sup title="d. h. Diener [vgl. Obadja; d. h. Diener des Herrn]">&#x2732;</sup>. Der ist der Vater Isais, des Vaters Davids.
-<sup>18</sup>Dies ist der Stammbaum<sup title="hebr. <i>toledoth </i>[von <i>jalad</i>; d. h. zeugen, gebären]; w. Erzeugungen; d. h. im AT Nachkommen/Geschlechterfolge/Entstehung/Entstehungsgeschichte/Geschichte">&#x2732;</sup> des Perez: Perez war der Vater Hezrons,
+<sup>18</sup>Dies ist der Stammbaum<sup title="hebr. toledoth [von jalad; d. h. zeugen, gebären]; w. Erzeugungen; d. h. im AT Nachkommen/Geschlechterfolge/Entstehung/Entstehungsgeschichte/Geschichte">&#x2732;</sup> des Perez: Perez war der Vater Hezrons,
 <sup>19</sup>Hezron der Vater Rams, Ram der Vater Amminadabs,
 <sup>20</sup>Amminadab der Vater Nahassons, Nahasson der Vater Salmons,
 <sup>21</sup>Salmon der Vater des Boas, Boas der Vater Obeds,
