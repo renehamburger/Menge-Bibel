@@ -68,7 +68,7 @@ __2__
 
 ### Ruths nächtliche Unterredung mit Boas
 
-#### Ruth begibt sich auf Noomis Rat zur Tenne des Boas und legt sich zu dessen Füssen nieder
+#### Ruth begibt sich auf Noomis Rat zur Tenne des Boas und legt sich zu dessen Füßen nieder
 
 __3__
 <sup>1</sup>Da sagte ihre Schwiegermutter Noomi zu ihr: Liebe Tochter, ich muss dir doch ein sicheres Heim verschaffen, damit du gut versorgt bist.
