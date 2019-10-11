@@ -16,7 +16,8 @@
   "scripts": {
     "getBible": "ts-node load-html.ts",
     "getBible.debug": "node --require ts-node/register --inspect-brk load-html.ts",
-    "concatenate": "cat ../Bibel/**/*.md > ../export/MengeBibel.md"
+    "concatenate": "cat ../Bibel/**/*.md > ../export/MengeBibel.md",
+    "convertToText": "ts-node convert-to-text.ts"
   },
   "bugs": {
     "url": "https://github.com/renehamburger/Menge-Bibel/issues"
@@ -25,9 +26,11 @@
   "devDependencies": {
     "@types/cheerio": "^0.22.7",
     "@types/fs-extra": "^5.0.3",
+    "@types/glob": "^7.1.1",
     "@types/request-promise-native": "^1.0.15",
     "cheerio": "^1.0.0-rc.2",
     "fs-extra": "^6.0.1",
+    "glob": "^7.1.4",
     "request": "^2.87.0",
     "request-promise-native": "^1.0.5",
     "ts-node": "^6.1.0",
