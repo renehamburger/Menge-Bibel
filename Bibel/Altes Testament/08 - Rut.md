@@ -87,7 +87,6 @@ __3__
 <sup>11</sup>Und nun, meine Tochter, sei ohne Angst! Alles, was du wünschest, will ich für dich tun; wissen doch alle Leute, die in unserm Ort auf dem Marktplatze am Stadttor zusammenkommen, daß du ein sittsames Weib bist.
 <sup>12</sup>Nun bin ich ja allerdings ein Löser für dich; aber es ist noch ein anderer Löser vorhanden, der näher mit dir verwandt ist als ich.
 <sup>13</sup>Bleibe über Nacht hier; morgen wird sich’s dann finden: wenn er dich lösen will, gut, so mag er es tun! Hat er aber keine Lust dazu, so will ich dich lösen, so wahr der HERR lebt! Bleibe nur liegen bis zum Morgen!«
-
 <sup>14</sup>So blieb sie denn zu seinen Füßen liegen bis zum Morgen; dann stand sie auf, ehe noch ein Mensch den andern erkennen konnte; er dachte nämlich: »Es braucht nicht bekanntzuwerden, daß ein Weib auf die Tenne gekommen ist.«
 <sup>15</sup>Dann sagte er: »Nimm den Überwurf, den du anhast, und halte ihn fest.« Als sie ihn nun hinhielt, maß er ihr sechs Maß Gerste ab und lud sie ihr auf. So ging sie in die Stadt.
 <sup>16</sup>Als sie nun zu ihrer Schwiegermutter heimkam, fragte diese: »Wie ist es dir ergangen, liebe Tochter?« Da erzählte sie ihr alles, wie der Mann sich gegen sie verhalten hatte,
@@ -117,7 +116,6 @@ __4__
 <sup>15</sup>und möge er ein Trost für dein Herz sein und dein Versorger im Alter! Denn deine Schwiegertochter, die dich liebhat, ist seine Mutter, sie, die dir mehr wert ist als sieben Söhne.«
 <sup>16</sup>Da nahm Noomi das Kind, legte es auf ihren Schoß und wurde seine Wärterin.
 <sup>17</sup>Die Nachbarinnen aber legten ihm einen Namen bei, indem sie sagten: »Ein Sohn ist der Noomi geboren!«, und sie nannten ihn Obed<sup title="d.h. Diener = Obadja, »Diener des Herrn«">&#x2732;</sup>. Der ist der Vater Isais, des Vaters Davids.
-
 <sup>18</sup>Dies ist der Stammbaum des Perez: Perez war der Vater Hezrons,
 <sup>19</sup>Hezron der Vater Rams, Ram der Vater Amminadabs,
 <sup>20</sup>Amminadab der Vater Nahassons, Nahasson der Vater Salmons,
