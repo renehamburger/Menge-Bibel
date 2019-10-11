@@ -10,7 +10,7 @@ __1__
 <sup>3</sup>Da starb Elimelech, der Mann Noomis, sodass sie mit ihren beiden Söhnen allein zurückblieb.
 <sup>4</sup>Diese nahmen sich dann moabitische Frauen, von denen die eine Orpa, die andere Ruth<sup title="d. h. Freundin">&#x2732;</sup> hieß. So wohnten sie dort etwa zehn Jahre.
 <sup>5</sup>Als dann auch die beiden Söhne, Machlon und Kiljon, starben und die Frau, ihrer beiden Söhne und ihres Mannes beraubt, alleinstand,
-<sup>6</sup>machte sie sich mit ihren beiden Schwiegertöchtern auf, um aus dem Gebiet der Moabiter in ihre Heimat zurückzukehren; denn sie hatte im Land der Moabiter in Erfahrung gebracht, dass der HERR sich seines Volkes gnädig angenommen und ihm wieder Brot gegeben habe.</span>
+<sup>6</sup>machte sie sich mit ihren beiden Schwiegertöchtern auf, um aus dem Gebiet der Moabiter in ihre Heimat zurückzukehren; denn sie hatte im Land der Moabiter in Erfahrung gebracht, dass der HERR sich seines Volkes gnädig angenommen und ihm wieder Brot gegeben habe.
 
 #### Aufbruch Noomis und ihrer beiden Schwiegertöchter zur Rückkehr nach Bethlehem • Orpas Abschied, Ruths Treue
 
