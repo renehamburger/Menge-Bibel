@@ -2,9 +2,9 @@
 
 ### 6. König Artaxerxes nimmt seinen Erlaß gegen die Juden feierlich zurück
 
-<p><sup title="anstatt Esther 8,13">&#x2732;</sup><br>
+<sup title="anstatt Esther 8,13">&#x2732;</sup>
 __6__
-<sup>1</sup>Hier folgt die Abschrift des Schreibens:</p>
+<sup>1</sup>Hier folgt die Abschrift des Schreibens:
 
 »Großkönig Artaxerxes entbietet den hundertsiebenundzwanzig Statthaltern von Indien bis Äthiopien, den Verwaltern der Landschaften und allen, die uns wohlgesinnt sind, seinen Gruß.
 <sup>2</sup>Viele, die durch die übergroße Güte ihrer Wohltäter allzusehr geehrt werden, trachten nach noch Höherem
@@ -30,9 +30,9 @@ __6__
 
 ### 7. Siebentes Stück: Die Deutung von Mardochais Traum
 
-<p><sup title="hinter Esther 10,3">&#x2732;</sup><br>
+<sup title="hinter Esther 10,3">&#x2732;</sup>
 __7__
-<sup>1</sup>Und Mardochai sagte: »Von Gott ist dies geschehen.</p>
+<sup>1</sup>Und Mardochai sagte: »Von Gott ist dies geschehen.
 <sup>2</sup>Ich gedenke des Traumbildes, das mir über diese Begebenheiten erschienen ist; denn keine einzige von ihnen ist unerfüllt geblieben.
 <sup>3</sup>Die kleine Quelle, die zu einem Strome wurde, und es war auch ein Licht und die Sonne und viel Wasser da: –
 <sup>4</sup>Esther ist der Strom, sie, die der König geehelicht und zur Königin gemacht hat. Die beiden Drachen aber – das bin ich und Haman.

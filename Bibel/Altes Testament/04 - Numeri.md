@@ -1094,12 +1094,12 @@ __21__
 <sup>15</sup>und den Abhang der Bachtäler, der bis in die Gegend von Ar reicht und sich an die Grenze von Moab anlehnt.«
 
 <sup>16</sup>Von dort (zogen sie) dann nach Beer; das ist der Brunnen, den der HERR meinte, als er zu Mose sagte: »Versammle das Volk, damit ich ihm Wasser gebe.«
-<p><sup>17</sup>Damals sangen die Israeliten folgendes Lied:
-»Quill empor, o Brunnen! Singt ihm zu:</p>
-<p><sup>18</sup>›O Brunnen, den Fürsten gegraben,
+<sup>17</sup>Damals sangen die Israeliten folgendes Lied:
+»Quill empor, o Brunnen! Singt ihm zu:
+<sup>18</sup>›O Brunnen, den Fürsten gegraben,
 den die Edlen des Volks erschlossen haben
-mit dem Zepter, mit ihren Stäben!‹«<br>
-Aus der Wüste (zogen sie) dann nach Matthana,</p>
+mit dem Zepter, mit ihren Stäben!‹«
+Aus der Wüste (zogen sie) dann nach Matthana,
 <sup>19</sup>von Matthana nach Nahaliel, von Nahaliel nach Bamoth,
 <sup>20</sup>von Bamoth in das Tal, das in der moabitischen Ebene liegt an der Höhe des Pisga, der auf die weite Einöde hinabblickt.
 
@@ -1111,22 +1111,22 @@ Aus der Wüste (zogen sie) dann nach Matthana,</p>
 <sup>24</sup>Diese aber schlugen ihn mit der Schärfe des Schwertes und eroberten sein Land vom Arnon bis zum Jabbok, bis an das Land der Ammoniter; denn Jaser liegt an der Grenze des Ammoniterlandes.
 <sup>25</sup>So nahmen denn die Israeliten alle dortigen Städte ein und ließen sich in allen Städten der Amoriter nieder, in Hesbon und allen dazugehörigen Ortschaften.
 <sup>26</sup>Denn Hesbon war die Hauptstadt des Amoriterkönigs Sihon; dieser hatte nämlich mit dem vorigen Könige der Moabiter Krieg geführt und ihm sein ganzes Land bis an den Arnon abgenommen.
-<p><sup>27</sup>Darum singen die Dichter:
+<sup>27</sup>Darum singen die Dichter:
 Kommt nach Hesbon!
-Aufgebaut und befestigt werde die Stadt Sihons!</p>
-<p><sup>28</sup>Denn Feuer ging (einst) aus von Hesbon,
+Aufgebaut und befestigt werde die Stadt Sihons!
+<sup>28</sup>Denn Feuer ging (einst) aus von Hesbon,
 eine Flamme von der Stadt Sihons;
 die fraß die Städte Moabs
-und verbrannte die Höhen am Arnon.</p>
-<p><sup>29</sup>Wehe dir, Moab!
+und verbrannte die Höhen am Arnon.
+<sup>29</sup>Wehe dir, Moab!
 Dem Untergang geweiht bist du, Volk des Kamos,
 der seine Söhne zu Flüchtlingen gemacht hat
 und seine Töchter zu Gefangenen
-für Sihon, den Amoriterkönig.</p>
-<p><sup>30</sup>Da haben wir (Moab) niedergeschossen,
+für Sihon, den Amoriterkönig.
+<sup>30</sup>Da haben wir (Moab) niedergeschossen,
 Hesbon ist verlorengegangen bis Dibon;
 da haben wir verwüstet bis Nophah:
-Feuer ging aus bis Medeba.</p>
+Feuer ging aus bis Medeba.
 
 ##### ee) Weiteres Vorrücken der Israeliten; Besiegung des Königs Og von Basan
 
@@ -1211,21 +1211,21 @@ __23__
 
 ##### ff) Bileam segnet Israel von Bamoth-Baal (22,41) herab
 
-<p><sup>7</sup>Da trug er seinen Spruch folgendermaßen vor:
+<sup>7</sup>Da trug er seinen Spruch folgendermaßen vor:
 »Aus Aram hat Balak mich holen lassen,
 Moabs König von den Bergen des Ostens:
 ›Komm her, verfluche mir Jakob!
-ja komm, verwünsche Israel!‹ –</p>
-<p><sup>8</sup>Wie soll ich den verfluchen, den Gott nicht verflucht?
-Und wie den verwünschen, den der HERR nicht verwünscht?</p>
-<p><sup>9</sup>Ja, vom Felsengipfel erblicke ich es,
+ja komm, verwünsche Israel!‹ –
+<sup>8</sup>Wie soll ich den verfluchen, den Gott nicht verflucht?
+Und wie den verwünschen, den der HERR nicht verwünscht?
+<sup>9</sup>Ja, vom Felsengipfel erblicke ich es,
 und von den Höhen herab erschaue ich es;
 ein Volk zeigt sich mir, das für sich abgesondert wohnt
-und sich nicht zu den übrigen Völkern rechnet.</p>
-<p><sup>10</sup>Wer könnte den Staub Jakobs zählen<sup title="1.Mose 13,16">&#x2732;</sup>
+und sich nicht zu den übrigen Völkern rechnet.
+<sup>10</sup>Wer könnte den Staub Jakobs zählen<sup title="1.Mose 13,16">&#x2732;</sup>
 oder nur den vierten Teil Israels berechnen?
 Möchte ich doch den Tod dieser Gerechten sterben
-und mein Ende dem ihren gleichen!«</p>
+und mein Ende dem ihren gleichen!«
 <sup>11</sup>Da sagte Balak zu Bileam: »Was hast du mir da angetan! Um meine Feinde zu verfluchen, habe ich dich holen lassen, und nun hast du sie sogar gesegnet!«
 <sup>12</sup>Da gab jener ihm zur Antwort: »Ich muß doch das, was der HERR mir in den Mund legt, getreulich aussprechen!«
 
@@ -1240,29 +1240,29 @@ und mein Ende dem ihren gleichen!«</p>
 
 ##### hh) Bileam segnet Israel vom Berge Pisga herab
 
-<p><sup>18</sup>Als nun Balak ihn fragte: »Was hat der HERR gesagt?«, trug er seinen Spruch folgendermaßen vor:
+<sup>18</sup>Als nun Balak ihn fragte: »Was hat der HERR gesagt?«, trug er seinen Spruch folgendermaßen vor:
 »Wohlan, Balak, höre zu!
-Leihe mir dein Ohr, Sohn Zippors!</p>
-<p><sup>19</sup>Gott ist nicht ein Mensch, daß er lüge,
+Leihe mir dein Ohr, Sohn Zippors!
+<sup>19</sup>Gott ist nicht ein Mensch, daß er lüge,
 noch ein Menschenkind, daß ihn etwas gereue:
 sollte er etwas sagen und es nicht ausführen?
-Sollte er etwas verheißen und es nicht erfüllen?</p>
-<p><sup>20</sup>Siehe, zu segnen ist mir aufgetragen,
-und hat er gesegnet, so kann ich’s nicht ändern.</p>
-<p><sup>21</sup>Man erblickt kein Unheil in Jakob
+Sollte er etwas verheißen und es nicht erfüllen?
+<sup>20</sup>Siehe, zu segnen ist mir aufgetragen,
+und hat er gesegnet, so kann ich’s nicht ändern.
+<sup>21</sup>Man erblickt kein Unheil in Jakob
 und gewahrt kein Leid in Israel:
 der HERR, sein Gott, ist mit ihm,
-und Königsjubel erschallt in seiner Mitte.</p>
-<p><sup>22</sup>Gott, der sie aus Ägypten geführt,
-ist ihm wie die Hörner eines Wildstiers!</p>
-<p><sup>23</sup>Ja, keine Zauberei haftet an Jakob<sup title="= hilft gegen Jakob">&#x2732;</sup>
+und Königsjubel erschallt in seiner Mitte.
+<sup>22</sup>Gott, der sie aus Ägypten geführt,
+ist ihm wie die Hörner eines Wildstiers!
+<sup>23</sup>Ja, keine Zauberei haftet an Jakob<sup title="= hilft gegen Jakob">&#x2732;</sup>
 und keine Beschwörung gegen Israel.
 Jetzt sagt man von Jakob und Israel:
-›Wie Großes hat Gott vollführt!‹</p>
-<p><sup>24</sup>Sieh, welch ein Volk! Es steht auf wie die Löwin
+›Wie Großes hat Gott vollführt!‹
+<sup>24</sup>Sieh, welch ein Volk! Es steht auf wie die Löwin
 und erhebt sich wie der Leu;
 es legt sich nicht nieder, ehe es Raub verzehrt
-und das Blut der Erschlagnen getrunken.«</p>
+und das Blut der Erschlagnen getrunken.«
 
 <sup>25</sup>Da sagte Balak zu Bileam: »Wenn du es nicht verfluchen willst, so brauchst du es doch nicht zu segnen!«
 <sup>26</sup>Bileam aber antwortete dem Balak: »Habe ich dir nicht bestimmt erklärt: Alles, was der HERR (mir) mitteilen<sup title="oder: gebieten">&#x2732;</sup> wird, das werde ich tun?«
@@ -1280,33 +1280,33 @@ __24__
 ##### jj) Bileam segnet Israel vom Berge Peor herab
 
 <sup>2</sup>Als er nun seine Augen aufschlug und Israel nach seinen Stämmen gelagert sah, da kam der Geist Gottes über ihn,
-<p><sup>3</sup>und er trug seinen Spruch folgendermaßen vor:
+<sup>3</sup>und er trug seinen Spruch folgendermaßen vor:
 »So spricht Bileam, der Sohn Beors,
 und so spricht der Mann, dessen Auge
-geschlossen ist;</p>
-<p><sup>4</sup>so spricht der, der Gottes Worte vernimmt
+geschlossen ist;
+<sup>4</sup>so spricht der, der Gottes Worte vernimmt
 und die Gedanken des Höchsten kennt,
 der die Offenbarungen des Allmächtigen schaut,
-der hingesunken ist und dessen Augen enthüllt sind:</p>
-<p><sup>5</sup>Wie schön sind deine Zelte, Jakob,
-deine Wohnungen, Israel!</p>
-<p><sup>6</sup>Wie Täler, die sich weithin dehnen,
+der hingesunken ist und dessen Augen enthüllt sind:
+<sup>5</sup>Wie schön sind deine Zelte, Jakob,
+deine Wohnungen, Israel!
+<sup>6</sup>Wie Täler, die sich weithin dehnen,
 wie Gärten an einem Strom,
 wie Aloebäume, die der HERR gepflanzt,
-wie Zedern am Wasser!</p>
-<p><sup>7</sup>Wasser rinnt aus seinen Eimern,
+wie Zedern am Wasser!
+<sup>7</sup>Wasser rinnt aus seinen Eimern,
 und seine Saat ist reichlich getränkt.
 Sein König ist mächtiger als Agag<sup title="vgl. 1.Sam 15,8.20.32.33">&#x2732;</sup>,
-und sein Königtum steigt stolz empor.</p>
-<p><sup>8</sup>Gott, der aus Ägypten es geführt,
+und sein Königtum steigt stolz empor.
+<sup>8</sup>Gott, der aus Ägypten es geführt,
 ist ihm wie die Hörner eines Wildstiers.
 Es frißt die ihm feindlichen Völker
 und zermalmt ihre Gebeine,
-es zerschmettert sie mit seinen Pfeilen<sup title="?">&#x2732;</sup>.</p>
-<p><sup>9</sup>Es hat sich hingestreckt, liegt da wie ein Leu
+es zerschmettert sie mit seinen Pfeilen<sup title="?">&#x2732;</sup>.
+<sup>9</sup>Es hat sich hingestreckt, liegt da wie ein Leu
 und wie eine Löwin: wer will<sup title="oder: darf">&#x2732;</sup> es aufstören?
 Wer dich segnet, ist gesegnet,
-und wer dir flucht, ist verflucht!«</p>
+und wer dir flucht, ist verflucht!«
 
 ##### kk) Balaks Zorn und Bileams Entschuldigung
 
@@ -1318,40 +1318,40 @@ und wer dir flucht, ist verflucht!«</p>
 
 ##### ll) Der vierte Spruch Bileams: der Stern aus Jakob; dessen Sieg über Moab und Edom
 
-<p><sup>15</sup>Hierauf trug er seinen Spruch folgendermaßen vor:
+<sup>15</sup>Hierauf trug er seinen Spruch folgendermaßen vor:
 »So spricht Bileam, der Sohn Beors,
-und so spricht der Mann, dessen Auge geschlossen ist;</p>
-<p><sup>16</sup>So spricht der, welcher Gottes Worte vernimmt und die Gedanken des Höchsten kennt,
+und so spricht der Mann, dessen Auge geschlossen ist;
+<sup>16</sup>So spricht der, welcher Gottes Worte vernimmt und die Gedanken des Höchsten kennt,
 der die Offenbarungen des Allmächtigen schaut,
-der hingesunken ist und dessen Augen enthüllt sind:</p>
-<p><sup>17</sup>Ich sehe ihn, doch nicht schon jetzt,
+der hingesunken ist und dessen Augen enthüllt sind:
+<sup>17</sup>Ich sehe ihn, doch nicht schon jetzt,
 ich gewahre ihn, doch noch nicht in der Nähe;
 es geht ein Stern aus Jakob auf,
 und ein Herrscherstab ersteht<sup title="oder: erhebt sich">&#x2732;</sup> aus Israel,
 der zerschmettert die Schläfen Moabs,
-den Scheitel aller Söhne Seths.</p>
-<p><sup>18</sup>Und Edom wird sein<sup title="d.h. Jakobs">&#x2732;</sup> Eigentum werden
+den Scheitel aller Söhne Seths.
+<sup>18</sup>Und Edom wird sein<sup title="d.h. Jakobs">&#x2732;</sup> Eigentum werden
 und Seir sein Eigentum, sie, seine Feinde;
-Israel aber wird große Taten verrichten.</p>
-<p><sup>19</sup>Von Jakob wird der Herrscher ausgehn
-und Entronnene<sup title="oder: die Flüchtlinge">&#x2732;</sup> vertilgen aus den Städten.«</p>
+Israel aber wird große Taten verrichten.
+<sup>19</sup>Von Jakob wird der Herrscher ausgehn
+und Entronnene<sup title="oder: die Flüchtlinge">&#x2732;</sup> vertilgen aus den Städten.«
 
 ##### mm) Die Sprüche über die Amalekiter, Keniter und Assur (nebst Eber); Schluß der Bileamgeschichte
 
-<p><sup>20</sup>Als er dann die Amalekiter erblickte, trug er seinen Spruch folgendermaßen vor:
+<sup>20</sup>Als er dann die Amalekiter erblickte, trug er seinen Spruch folgendermaßen vor:
 »Der Völker erstes ist Amalek,
-doch sein Ende fällt dem Untergang anheim!«</p>
-<p><sup>21</sup>Als er dann die Keniter<sup title="1.Sam 15,6">&#x2732;</sup> erblickte, trug er seinen Spruch folgendermaßen vor:
+doch sein Ende fällt dem Untergang anheim!«
+<sup>21</sup>Als er dann die Keniter<sup title="1.Sam 15,6">&#x2732;</sup> erblickte, trug er seinen Spruch folgendermaßen vor:
 »Fest ist dein Wohnsitz, (Kain,)
-und auf Felsen gebaut dein Nest;</p>
-<p><sup>22</sup>gleichwohl ist Kain dem Untergang geweiht:
-wie lange noch, so führt Assur dich in Gefangenschaft!«</p>
-<p><sup>23</sup>Dann trug er nochmals seinen Spruch folgendermaßen vor:
+und auf Felsen gebaut dein Nest;
+<sup>22</sup>gleichwohl ist Kain dem Untergang geweiht:
+wie lange noch, so führt Assur dich in Gefangenschaft!«
+<sup>23</sup>Dann trug er nochmals seinen Spruch folgendermaßen vor:
 »Wehe! Wer wird<sup title="oder: möchte">&#x2732;</sup> am Leben bleiben,
-wenn Gott dies eintreten läßt?</p>
-<p><sup>24</sup>Denn Schiffe kommen vom Strand der Kittäer<sup title="d.h. von Zypern">&#x2732;</sup>,
+wenn Gott dies eintreten läßt?
+<sup>24</sup>Denn Schiffe kommen vom Strand der Kittäer<sup title="d.h. von Zypern">&#x2732;</sup>,
 die demütigen Assur und demütigen Eber;
-doch auch der wird dem Untergang verfallen!«</p>
+doch auch der wird dem Untergang verfallen!«
 
 <sup>25</sup>Hierauf machte Bileam sich auf den Weg und kehrte in seine Heimat zurück; und auch Balak ging seines Weges.
 

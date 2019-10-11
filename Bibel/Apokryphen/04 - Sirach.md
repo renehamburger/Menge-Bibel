@@ -10,31 +10,31 @@ __1__
 <sup>1</sup>Alle Weisheit kommt vom Herrn und ist bei ihm in Ewigkeit.
 <sup>2</sup>Den Sand am Meer und die Tropfen des Regens und die Tage der Ewigkeit: – wer kann sie zählen?
 <sup>3</sup>Die Höhe des Himmels und die Breite der Erde und das Weltmeer und die Weisheit: – wer kann sie ergründen?
-<p><sup>4</sup>Früher als dieses alles ist die Weisheit geschaffen, und verständige Einsicht ist von Ewigkeit her.<br>
-b [Die Quelle der Weisheit ist Gottes Wort in Himmelshöhen, und ihre Wege sind die ewigen Gebote.]</p>
-<p><sup>5</sup>Die Wurzel<sup title="= der Ursprung">&#x2732;</sup> der Weisheit, – wem war sie offenbart? und ihre geheimen Pläne, – wer hat sie erkannt?<br>
-b [Die Erkenntnis der Weisheit, – wem wird sie kundgetan? und ihre reiche Erfahrung, – wer hat sie verstanden?]</p>
+<sup>4</sup>Früher als dieses alles ist die Weisheit geschaffen, und verständige Einsicht ist von Ewigkeit her.
+b [Die Quelle der Weisheit ist Gottes Wort in Himmelshöhen, und ihre Wege sind die ewigen Gebote.]
+<sup>5</sup>Die Wurzel<sup title="= der Ursprung">&#x2732;</sup> der Weisheit, – wem war sie offenbart? und ihre geheimen Pläne, – wer hat sie erkannt?
+b [Die Erkenntnis der Weisheit, – wem wird sie kundgetan? und ihre reiche Erfahrung, – wer hat sie verstanden?]
 <sup>6</sup>Einer ist weise, furchtbar gar sehr, er, der auf seinem Throne sitzt, der Herr.
 <sup>7</sup>Er ist’s, der sie geschaffen und geschaut und gezählt und sie ausgegossen hat über alle seine Werke
-<p><sup>8</sup>mit Einschluß alles Fleisches, soviel er ihm eben verlieh; doch reichlich hat er sie denen gewährt, die ihn lieben.<br>
-b [Die Liebe zum Herrn ist herrliche Weisheit; denen er aber erscheint, denen teilt er sie zu, damit sie ihn schauen.]</p>
+<sup>8</sup>mit Einschluß alles Fleisches, soviel er ihm eben verlieh; doch reichlich hat er sie denen gewährt, die ihn lieben.
+b [Die Liebe zum Herrn ist herrliche Weisheit; denen er aber erscheint, denen teilt er sie zu, damit sie ihn schauen.]
 
 #### b) Mit der Weisheit ist die Gottesfurcht unzertrennlich vereinigt (1,9-27)
 
 <sup>9</sup>Die Furcht des Herrn verleiht Ehre und Ruhm und Frohsinn und eine Freudenkrone.
-<p><sup>10</sup>Die Furcht des Herrn erfreut das Herz und gibt Frohsinn, Fröhlichkeit und langes Leben.<br>
-b [Die Furcht des Herrn ist ein Geschenk vom Herrn, denn sie stellt hin auf die Pfade der Liebe.]</p>
-<p><sup>11</sup>Wer den Herrn fürchtet, dem wird es am Ende wohl ergehn, und am Tage seines Todes wird er gepriesen werden.<br>
-b [Die Liebe zum Herrn ist herrliche Weisheit; denen er aber erscheint, denen teilt er sie zu, damit sie ihn schauen.]</p>
+<sup>10</sup>Die Furcht des Herrn erfreut das Herz und gibt Frohsinn, Fröhlichkeit und langes Leben.
+b [Die Furcht des Herrn ist ein Geschenk vom Herrn, denn sie stellt hin auf die Pfade der Liebe.]
+<sup>11</sup>Wer den Herrn fürchtet, dem wird es am Ende wohl ergehn, und am Tage seines Todes wird er gepriesen werden.
+b [Die Liebe zum Herrn ist herrliche Weisheit; denen er aber erscheint, denen teilt er sie zu, damit sie ihn schauen.]
 <sup>12</sup>Der Anfang der Weisheit ist die Furcht des Herrn; den Frommen ist sie im Mutterleibe anerschaffen.
-<p><sup>13</sup>Bei den Menschen<sup title="oder Frommen?">&#x2732;</sup> hat sie sich einen ewigen Wohnsitz gegründet und bei deren Nachkommen wird sie beständig bleiben.<br>
-b [Die Furcht des Herrn ist ein gottseliges Wissen; die Gottseligkeit behütet und macht rechtschaffen das Herz, Freude und Wonne verleiht sie. Dem Gottesfürchtigen wird es wohlergehen, und zur Zeit seines Endes wird er gesegnet sein.]</p>
+<sup>13</sup>Bei den Menschen<sup title="oder Frommen?">&#x2732;</sup> hat sie sich einen ewigen Wohnsitz gegründet und bei deren Nachkommen wird sie beständig bleiben.
+b [Die Furcht des Herrn ist ein gottseliges Wissen; die Gottseligkeit behütet und macht rechtschaffen das Herz, Freude und Wonne verleiht sie. Dem Gottesfürchtigen wird es wohlergehen, und zur Zeit seines Endes wird er gesegnet sein.]
 <sup>14</sup>Das Vollmaß der Weisheit ist die Furcht des Herrn; sie macht die Menschen trunken von ihren Früchten.
 <sup>15</sup>Ihr ganzes Haus füllt sie mit kostbaren Schätzen an und die Vorratskammern mit ihren Erzeugnissen.
 <sup>16</sup>Die Krone der Weisheit ist die Furcht des Herrn, die da erblühen macht Wohlfahrt und erquickende Gesundheit (und das Rühmen denen weit macht, die ihn lieben).
 <sup>17</sup>Und er sah sie und zählte sie aus; Erkenntnis und kluge Einsicht strömt sie aus und erhöht den Ruhm derer, die sie festhalten.
-<p><sup>18</sup>Die Wurzel der Weisheit ist die Furcht des Herrn, und ihre Zweige sind langes Leben.<br>
-b [Die Furcht des Herrn hält die Sünde fern; wer aber in ihr bleibt, wird allen Zorn von sich abwenden.]</p>
+<sup>18</sup>Die Wurzel der Weisheit ist die Furcht des Herrn, und ihre Zweige sind langes Leben.
+b [Die Furcht des Herrn hält die Sünde fern; wer aber in ihr bleibt, wird allen Zorn von sich abwenden.]
 
 #### Weisheitsregeln des Spruchdichters (1,19-27)
 
@@ -98,15 +98,15 @@ __3__
 #### b) Lob der Demut und Bescheidenheit; Warnung vor Eigendünkel (V.17-29)
 
 <sup>17</sup>Mein Sohn, in Demut vollbringe deine Geschäfte, so wirst du von gottwohlgefälligen Menschen geliebt werden (h).
-<p><sup>18</sup>Je größer du bist, desto mehr demütige dich, so wirst du vor dem Herrn Gnade finden;<br>
-b [Manche sind in hoher Stellung und geehrt, aber den Demütigen werden die Geheimnisse Gottes geoffenbart.]</p>
+<sup>18</sup>Je größer du bist, desto mehr demütige dich, so wirst du vor dem Herrn Gnade finden;
+b [Manche sind in hoher Stellung und geehrt, aber den Demütigen werden die Geheimnisse Gottes geoffenbart.]
 <sup>19</sup>Denn groß ist die Macht des Herrn, und von den Demütigen wird er gepriesen<sup title="oder: an den Demütigen verherrlicht er sich">&#x2732;</sup>.
 
 <sup>20</sup>Was dir zu schwer ist, untersuche nicht, und was über deine Kräfte geht, trachte nicht zu erforschen.
 <sup>21</sup>Was dir aufgetragen ist, darüber sinne nach, denn das Verborgene geht dich nichts an; (nicht hast du nötig, das Verborgene mit deinen Augen zu schauen).
 <sup>22</sup>Was über die dir obliegenden Geschäfte hinausgeht, damit befasse dich nicht vorwitzig; denn mehr, als die Menschen begreifen können, ist dir kundgetan worden;
-<p><sup>23</sup>denn viele hat ihre zu hohe Meinung von sich irregeführt, und böser Dünkel hat ihre Gedanken getäuscht.<br>
-b [Hast du keine Augen, so entbehrst du des Lichtes; mangelt dir aber die Einsicht, so rühme dich ihrer nicht.]</p>
+<sup>23</sup>denn viele hat ihre zu hohe Meinung von sich irregeführt, und böser Dünkel hat ihre Gedanken getäuscht.
+b [Hast du keine Augen, so entbehrst du des Lichtes; mangelt dir aber die Einsicht, so rühme dich ihrer nicht.]
 <sup>24</sup>Einem trotzigen Herzen ergeht es zuletzt übel, und wer die Gefahren liebt, kommt darin um.
 <sup>25</sup>Ein trotziges Herz belastet sich mit Schmerzen, und der Sünder häuft Sünde auf Sünde.
 <sup>26</sup>Heimsuchung<sup title="= Leiden">&#x2732;</sup> ist für den Hochmütigen kein Heilmittel; denn das Gewächs der Bosheit<sup title="= eine böse Pflanze">&#x2732;</sup> hat Wurzel in ihm geschlagen.
@@ -315,8 +315,8 @@ __9__
 <sup>5</sup>Eine Jungfrau betrachte nicht genau, damit du nicht durch das zu zahlende Strafgeld in Schande geratest<sup title="oder: eine Einbuße erleidest?">&#x2732;</sup>.
 <sup>6</sup>Gib dein Herz nicht an Buhldirnen hin, damit du nicht um dein Hab und Gut kommest.
 <sup>7</sup>Gaffe nicht in den Straßen der Stadt umher und schweife nicht durch ihre einsamen Gassen.
-<p><sup>8</sup>Wende deine Augen ab von einer schönen Frau und laß deine Blicke nicht ruhen auf einer fremden Schönheit; durch Weiberschönheit sind schon viele berückt worden, und an ihr entzündet die Liebe sich wie Feuer.<br>
-b [Jede Frau, die der Unzucht sich preisgibt, wird wie Unrat auf der Erde zertreten. Viele sind durch eines fremden Weibes Schönheit auf Abwege geraten; denn die Unterhaltung mit ihnen brennt wie Feuer.]</p>
+<sup>8</sup>Wende deine Augen ab von einer schönen Frau und laß deine Blicke nicht ruhen auf einer fremden Schönheit; durch Weiberschönheit sind schon viele berückt worden, und an ihr entzündet die Liebe sich wie Feuer.
+b [Jede Frau, die der Unzucht sich preisgibt, wird wie Unrat auf der Erde zertreten. Viele sind durch eines fremden Weibes Schönheit auf Abwege geraten; denn die Unterhaltung mit ihnen brennt wie Feuer.]
 <sup>9</sup>Mit einer verheirateten Frau sitze überhaupt nicht zusammen (h) und schmause nicht mit ihr beim Wein, damit dein Herz sich ihr nicht zuneige und du durch deine Leidenschaft ins Verderben geratest (h).
 
 #### e) Klugheitsregeln in bezug auf das Verhalten gegen andere Menschen (bsd. Bekannte) (9,10-18)
@@ -345,8 +345,8 @@ __10__
 
 <sup>6</sup>Aber keinerlei Unrecht grolle deinem Nächsten, und betätige dich niemals durch gewalttätiges Handeln;
 <sup>7</sup>verhaßt beim Herrn und bei den Menschen ist der Übermut, und gegen beide versündigt sich die Gewalttat.
-<p><sup>8</sup>Die Herrschaft geht von einem Volk auf das andere über infolge von Gewalttaten, Übermut und Geldgier.<br>
-b [Denn es gibt nichts Gesetzwidrigeres als den Geldgierigen, der ja seine eigene Seele zum Verkauf stellt.]</p>
+<sup>8</sup>Die Herrschaft geht von einem Volk auf das andere über infolge von Gewalttaten, Übermut und Geldgier.
+b [Denn es gibt nichts Gesetzwidrigeres als den Geldgierigen, der ja seine eigene Seele zum Verkauf stellt.]
 <sup>9</sup>Wie kommt Staub und Asche dazu, sich zu überheben? Denn bei lebendigem Leibe reiße ich ihm die Eingeweide aus!
 <sup>10</sup>Eine leichte Krankheit – es scherzt der Arzt über sie – doch: Heute König und morgen ist er tot.
 <sup>11</sup>Denn wenn der Mensch stirbt, erhält er Moder und Maden, Geschmeiß und Würmer als Besitz.
@@ -398,8 +398,8 @@ __11__
 
 #### k) Von Gottes allezeit sicherem Urteil und seiner immerdar gerechten Vergeltung (11,13-25)
 
-<p><sup>13</sup>Glück und Unglück, Leben und Tod, Armut und Reichtum kommen vom Herrn.<br>
-b [Weisheit und Einsicht und Kenntnis des Gesetzes kommen vom Herrn; Liebe und die Wege guter Werke kommen von ihm. Irrtum und Finsternis sind mit den Sündern zugleich erschaffen; wer sich aber seiner Bosheit rühmt, mit dem zugleich altert das Böse].</p>
+<sup>13</sup>Glück und Unglück, Leben und Tod, Armut und Reichtum kommen vom Herrn.
+b [Weisheit und Einsicht und Kenntnis des Gesetzes kommen vom Herrn; Liebe und die Wege guter Werke kommen von ihm. Irrtum und Finsternis sind mit den Sündern zugleich erschaffen; wer sich aber seiner Bosheit rühmt, mit dem zugleich altert das Böse].
 <sup>14</sup>Was der Herr gibt, verbleibt den Frommen, und sein Wohlgefallen verleiht immerdauerndes Wohlergehen.
 <sup>15</sup>Mancher wird reich durch sein Sparen und seine Knickerei, und folgender Lohn wird ihm dafür zuteil:
 <sup>16</sup>er kann sagen: »Ich habe nun Ruhe erlangt, jetzt will ich meine Güter genießen«. Er weiß doch nicht, wie viel Zeit noch vergehen wird, bis er sein Gut anderen überlassen und sterben muß. –
@@ -574,8 +574,8 @@ __16__
 <sup>11</sup>Und nun gar der Einzelne, der halsstarrig ist: ein Wunder wäre es, wenn er ungestraft bliebe; denn wie Erbarmen, so ist auch Zorn bei ihm; er hat die Macht zu verzeihen und gießt auch seinen Zorn aus;
 <sup>12</sup>so groß wie seine Gnade, ebenso groß ist auch seine Züchtigung; jeden richtet er nach seinen Werken.
 <sup>13</sup>Nicht entkommt der Frevler mit seinem Raube, und niemals läßt er die Hoffnung des Frommen unerfüllt;
-<p><sup>14</sup>für jeden, der Wohltätigkeit übt, gibt es einen Lohn (g), ein jeder empfängt nach seinen Werken.<br>
-b [Der Herr verhärtete den Pharao, so daß dieser ihn nicht erkannte, damit seine Machterweise dem Erdkreise unter dem ganzen Himmel kund würden; der ganzen Schöpfung ist sein Erbarmen offenbar, und sein Licht und seine Finsternis hat er den Menschen zugeteilt.]</p>
+<sup>14</sup>für jeden, der Wohltätigkeit übt, gibt es einen Lohn (g), ein jeder empfängt nach seinen Werken.
+b [Der Herr verhärtete den Pharao, so daß dieser ihn nicht erkannte, damit seine Machterweise dem Erdkreise unter dem ganzen Himmel kund würden; der ganzen Schöpfung ist sein Erbarmen offenbar, und sein Licht und seine Finsternis hat er den Menschen zugeteilt.]
 
 <sup>15</sup>Sage nicht: »Ich bin vor Gott verborgen, und wer wird in der Höhe meiner gedenken? Unter den vielen Leuten bleibe ich unbemerkt, und was bin ich in der unermeßlichen Schöpfung«?
 <sup>16</sup>Bedenke wohl: der Himmel und der Himmel des Himmels, das Weltmeer und die Erde erbeben, wenn er sie heimsucht;
@@ -702,8 +702,8 @@ __19__
 
 #### d) Vom Unterschied zwischen gottesfürchtiger Weisheit und boshafter Schlauheit (V.18-27)
 
-<p><sup>18</sup>b [Die Furcht des Herrn ist der Anfang des (göttlichen) Wohlwollens, die Weisheit aber gewinnt sich bei ihm Liebe. Die Kenntnis der Gebote des Herrn ist lebenspendende Bildung; die aber das tun, was ihm wohlgefällt, pflücken die Frucht vom Baume der Unsterblichkeit.]<br>
-a Jegliche Weisheit ist Furcht des Herrn, und mit jeglicher Weisheit ist Erfüllung des Gesetzes verbunden;</p>
+<sup>18</sup>b [Die Furcht des Herrn ist der Anfang des (göttlichen) Wohlwollens, die Weisheit aber gewinnt sich bei ihm Liebe. Die Kenntnis der Gebote des Herrn ist lebenspendende Bildung; die aber das tun, was ihm wohlgefällt, pflücken die Frucht vom Baume der Unsterblichkeit.]
+a Jegliche Weisheit ist Furcht des Herrn, und mit jeglicher Weisheit ist Erfüllung des Gesetzes verbunden;
 <sup>19</sup>nicht aber ist Weisheit die Kenntnis der Schlechtigkeit, und keine Einsicht ist der Ratschlag der Sünder.
 <sup>20</sup>Es gibt eine Schlauheit<sup title="= Pfiffigkeit">&#x2732;</sup>, und sie ist ein Greuel<sup title="= verabscheuenswert">&#x2732;</sup>; und es gibt Unverständige, denen die Schlechtigkeit<sup title="?">&#x2732;</sup> abgeht.
 <sup>21</sup>Besser ist der Gottesfürchtige, dem es an Einsicht gebricht, als wer an Klugheit überreich, aber ein Gesetzesübertreter ist.
@@ -718,8 +718,8 @@ a Jegliche Weisheit ist Furcht des Herrn, und mit jeglicher Weisheit ist Erfüll
 
 __20__
 <sup>1</sup>Es gibt eine Zurechtweisung, die zur Unzeit geschieht, und mancher schweigt, und der ist klug.
-<p><sup>2</sup>Wie viel besser ist’s, zur Rede zu stellen als (schweigend) zu grollen! und wer sein Unrecht offen zugesteht, entgeht dem Schaden.<br>
-b [Wie schön ist’s, Reue an den Tag zu legen, wenn man zur Rede gestellt wird! Denn so meidet man freiwillige Verfehlungen.]</p>
+<sup>2</sup>Wie viel besser ist’s, zur Rede zu stellen als (schweigend) zu grollen! und wer sein Unrecht offen zugesteht, entgeht dem Schaden.
+b [Wie schön ist’s, Reue an den Tag zu legen, wenn man zur Rede gestellt wird! Denn so meidet man freiwillige Verfehlungen.]
 <sup>3</sup>Wie die Begierde des Entmannten, ein Mädchen zu entjungfern, so handelt der (verfehlt), welcher das Recht mit Gewalt durchsetzen will.
 <sup>4</sup>Mancher schweigt und wird als weise erfunden, und mancher ist verhaßt infolge seiner großen Geschwätzigkeit.
 
@@ -756,8 +756,8 @@ b [Wie schön ist’s, Reue an den Tag zu legen, wenn man zur Rede gestellt wird
 <sup>27</sup>Wer den Acker bebaut, türmt seinen Garbenhaufen hoch empor; und wer den Großen gefällt, kann Verfehlungen gutmachen.
 <sup>28</sup>Geschenke und Gaben machen die Augen (auch) der Weisen blind und hemmen, wie ein Knebel im Munde, die (gerechten) Vorwürfe.
 <sup>29</sup>Verborgene Weisheit und ein vergrabener Schatz – was nützen sie beide?
-<p><sup>30</sup>Besser ein Mensch, der seine Torheit verbirgt, als ein Mensch, der seine Weisheit geheimhält.<br>
-b [Besser ist unermüdliche Ausdauer im Suchen des Herrn als ein herrenloser Fuhrmann des eigenen Lebens.]</p>
+<sup>30</sup>Besser ein Mensch, der seine Torheit verbirgt, als ein Mensch, der seine Weisheit geheimhält.
+b [Besser ist unermüdliche Ausdauer im Suchen des Herrn als ein herrenloser Fuhrmann des eigenen Lebens.]
 
 #### g) Warnungen vor mehreren Arten von Sünden (21,1-10)
 
@@ -940,8 +940,8 @@ __25__
 <sup>8</sup>Glücklich, wer mit einer verständigen Frau verheiratet ist, und wer sich mit seiner Zunge nicht verfehlt, und wer nicht einem unwürdigen Herrn dienen muß!
 <sup>9</sup>Glücklich, wer sich Klugheit angeeignet hat und wer sie willigen Zuhörern vortragen kann!
 <sup>10</sup>Wie groß steht der da, welcher Weisheit erlangt hat! aber keiner steht größer da als der Gottesfürchtige.
-<p><sup>11</sup>Die Gottesfurcht geht über alles; wer sie festhält, wenn könnte der gleichgestellt werden?<br>
-b [Die Furcht des Herrn ist der Anfang der Liebe zu ihm, die Treue aber der Anfang der engen Zugehörigkeit zu ihm.]</p>
+<sup>11</sup>Die Gottesfurcht geht über alles; wer sie festhält, wenn könnte der gleichgestellt werden?
+b [Die Furcht des Herrn ist der Anfang der Liebe zu ihm, die Treue aber der Anfang der engen Zugehörigkeit zu ihm.]
 
 #### c) Regeln und Sprüche bezüglich der bösen und der guten Frauen (25,12-26,18)
 
@@ -982,16 +982,16 @@ __26__
 <sup>15</sup>Anmut über Anmut ist eine keusche Frau, und mit nichts aufzuwägen ist eine züchtige Seele.
 <sup>16</sup>Wie die Sonne, die da aufgeht am hohen Gotteshimmel, so ist die Schönheit einer guten Frau ein Schmuck seines Hauses<sup title="oder im wohlgeordneten Hauswesen ihres Mannes?">&#x2732;</sup>.
 <sup>17</sup>Wie die Lampe hell strahlt auf dem heiligen Leuchter, so die Schönheit ihres Angesichts auf hoher Gestalt.
-<p><sup>18</sup>Wie goldene Säulen auf silbernem Untersatz, so sind schöne Füße auf wohlgeformten Fersen (oder Sohlen).<br>
-.1 Mein Sohn, bewahre dir die Blüte deiner Jugend gesund und gib nicht Fremden deine Kraft hin.<br>
-.2 Suche dir aus der ganzen Feldmark ein fruchtbares Feld zum Besitz aus und säe deinen eigenen Samen aus, im Vertrauen auf deine edle Abkunft; so werden deine Sprößlinge am Leben bleiben<sup title="oder um dich sein?">&#x2732;</sup> und im Besitz des Freimuts edler Abkunft groß wachsen.<br>
-.3 Eine feile Dirne wird dem Speichel gleich geachtet, eine Ehefrau aber gilt für die, welche sich mit ihr einlassen, als ein todbringender Turm.<br>
-.4 Ein gottloses Weib wird dem Gesetzlosen als Anteil zugeteilt, ein frommes Weib dagegen dem Gottesfürchtigen.<br>
-.5 Ein schamloses Weib macht sich nichts aus der Schande, aber eine schamhafte Tochter<sup title="oder Frau?">&#x2732;</sup> wird sich sogar vor ihrem Manne schämen.<br>
-.6 Ein stets lüsternes Weib wird wie ein Hund geachtet, die schamhafte aber fürchtet den Herrn.<br>
-.7 Ein Weib, das ihren Ehemann in Ehren hält, erscheint allen als weise; wenn sie ihn aber mißachtet, wird sie bei ihrem Hochmut allen als gottlos gelten.<br>
-.8 Der Mann eines guten Weibes ist glücklich zu preisen, denn die Zahl seiner Lebensjahre verdoppelt sich.<br>
-.9 Ein kreischendes und zungenfertiges Weib erscheint wie eine Kriegstrompete, welche die Feinde in die Flucht treibt; bei jedem Manne aber wir die Seele, die darin gleichgeartet ist, sich auf ein unruhiges Kriegstreiben gefaßt machen müssen.</p>
+<sup>18</sup>Wie goldene Säulen auf silbernem Untersatz, so sind schöne Füße auf wohlgeformten Fersen (oder Sohlen).
+.1 Mein Sohn, bewahre dir die Blüte deiner Jugend gesund und gib nicht Fremden deine Kraft hin.
+.2 Suche dir aus der ganzen Feldmark ein fruchtbares Feld zum Besitz aus und säe deinen eigenen Samen aus, im Vertrauen auf deine edle Abkunft; so werden deine Sprößlinge am Leben bleiben<sup title="oder um dich sein?">&#x2732;</sup> und im Besitz des Freimuts edler Abkunft groß wachsen.
+.3 Eine feile Dirne wird dem Speichel gleich geachtet, eine Ehefrau aber gilt für die, welche sich mit ihr einlassen, als ein todbringender Turm.
+.4 Ein gottloses Weib wird dem Gesetzlosen als Anteil zugeteilt, ein frommes Weib dagegen dem Gottesfürchtigen.
+.5 Ein schamloses Weib macht sich nichts aus der Schande, aber eine schamhafte Tochter<sup title="oder Frau?">&#x2732;</sup> wird sich sogar vor ihrem Manne schämen.
+.6 Ein stets lüsternes Weib wird wie ein Hund geachtet, die schamhafte aber fürchtet den Herrn.
+.7 Ein Weib, das ihren Ehemann in Ehren hält, erscheint allen als weise; wenn sie ihn aber mißachtet, wird sie bei ihrem Hochmut allen als gottlos gelten.
+.8 Der Mann eines guten Weibes ist glücklich zu preisen, denn die Zahl seiner Lebensjahre verdoppelt sich.
+.9 Ein kreischendes und zungenfertiges Weib erscheint wie eine Kriegstrompete, welche die Feinde in die Flucht treibt; bei jedem Manne aber wir die Seele, die darin gleichgeartet ist, sich auf ein unruhiges Kriegstreiben gefaßt machen müssen.
 
 #### d) Sprüche über mehrfache Lebensverhältnisse und über verschiedene Arten der Sünde (26,19-28,26)
 

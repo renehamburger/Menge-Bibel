@@ -424,29 +424,29 @@ __16__
 <sup>2</sup>Stimmt meinem Gott zu Ehren ein Lied an mit Pauken,
 <blockquote>
 <blockquote>
-<p>singet meinem Herrn mit Zimbeln!
+singet meinem Herrn mit Zimbeln!
 Laßt ihm ein neues Lied ertönen,
-erhebt seinen Namen und ruft ihn an!</p>
+erhebt seinen Namen und ruft ihn an!
 </blockquote>
 </blockquote>
 <sup>3</sup>Denn der Herr ist ein Gott, der Kriegen ein Ende macht,
 <blockquote>
 <blockquote>
-<p>denn in sein Lager inmitten seines Volkes
-hat er mich gerettet aus meiner Verfolger Hand.</p>
+denn in sein Lager inmitten seines Volkes
+hat er mich gerettet aus meiner Verfolger Hand.
 </blockquote>
 </blockquote>
 <sup>4</sup>Der Assyrer kam von den Bergen im Norden,
 <blockquote>
 <blockquote>
-<p>er kam mit vielen Tausenden seiner Streitmacht;
+er kam mit vielen Tausenden seiner Streitmacht;
 ihre Menge erschöpfte die Bäche,
 und ihre Rosse bedeckten die Hügel.
 Er gedachte, meine Gefilde zu verbrennen,
 meine jungen Männer mit dem Schwert zu töten,
 meine Säuglinge zu Boden zu schleudern,
 meine Kindlein als Beute hinzugeben
-und meine Jungfrauen wegzuschleppen.</p>
+und meine Jungfrauen wegzuschleppen.
 </blockquote>
 </blockquote>
 <sup>5</sup>Aber der Herr, der Allgebieter,
@@ -458,31 +458,31 @@ hat sie vernichtet durch eines Weibes Hand.
 <sup>6</sup>Denn nicht durch Jünglinge ist ihr Gebieter gefallen,
 <blockquote>
 <blockquote>
-<p>auch nicht Söhne von Titanen haben ihn erschlagen,
+auch nicht Söhne von Titanen haben ihn erschlagen,
 noch gewaltige Riesen ihn angegriffen;
 nein, Judith, die Tochter Meraris,
-hat ihn durch ihres Angesichts Schönheit bezwungen.</p>
+hat ihn durch ihres Angesichts Schönheit bezwungen.
 </blockquote>
 </blockquote>
 <sup>7</sup>Denn ihre Witwenkleider legte sie ab,
 <blockquote>
 <blockquote>
-<p>um den Bedrängten Israels aufzuhelfen;
-sie salbte ihr Antlitz mit kostbarem Öl</p>
+um den Bedrängten Israels aufzuhelfen;
+sie salbte ihr Antlitz mit kostbarem Öl
 </blockquote>
 </blockquote>
 <sup>8</sup>
 <blockquote>
 <blockquote>
-<p>und flocht ihr Haar unter dem Kopfbund
-und legte ein leinenes Kleid an, um ihn zu berücken.</p>
+und flocht ihr Haar unter dem Kopfbund
+und legte ein leinenes Kleid an, um ihn zu berücken.
 </blockquote>
 </blockquote>
 <sup>9</sup>Ihre Sandalen entzückten seine Augen,
 <blockquote>
 <blockquote>
-<p>ihre Schönheit nahm seine Sinne gefangen: –
-das Schwert durchschnitt ihm den Hals.</p>
+ihre Schönheit nahm seine Sinne gefangen: –
+das Schwert durchschnitt ihm den Hals.
 </blockquote>
 </blockquote>
 <sup>10</sup>Es schauderte die Perser ob ihrer Kühnheit,
@@ -494,53 +494,53 @@ und die Meder waren ob ihres Muts entsetzt.
 <sup>11</sup>Da frohlockten meine Verzagten,
 <blockquote>
 <blockquote>
-<p>und meine Schwachen jauchzten laut.
+und meine Schwachen jauchzten laut.
 Sie aber wurden in Angst versetzt,
-erhoben lautes Wehgeschrei und flohen davon.</p>
+erhoben lautes Wehgeschrei und flohen davon.
 </blockquote>
 </blockquote>
 <sup>12</sup>Die Söhne junger Weiber durchbohrten sie
 <blockquote>
 <blockquote>
-<p>und schlugen sie nieder wie flüchtige Sklaven;
-sie fielen durch die Heerscharen meines Herrn.</p>
+und schlugen sie nieder wie flüchtige Sklaven;
+sie fielen durch die Heerscharen meines Herrn.
 </blockquote>
 </blockquote>
 <sup>13</sup>Singen will ich meinem Gott ein neues Lied:
 <blockquote>
 <blockquote>
-<p>Herr, groß bist du und ruhmreich,
-wunderbar an Kraft, unübertrefflich.</p>
+Herr, groß bist du und ruhmreich,
+wunderbar an Kraft, unübertrefflich.
 </blockquote>
 </blockquote>
 <sup>14</sup>Dir muß dienen deine ganze Schöpfung,
 <blockquote>
 <blockquote>
-<p>denn du gebotst, da trat sie ins Dasein;
+denn du gebotst, da trat sie ins Dasein;
 du sandtest deinen Geist aus, der bildete (alle Geschöpfe),
-und keines ist da, das deinem Geheiß widerstände.</p>
+und keines ist da, das deinem Geheiß widerstände.
 </blockquote>
 </blockquote>
 <sup>15</sup>Denn Berge werden auf ihrem Grunde wanken samt den Wassern,
 <blockquote>
 <blockquote>
-<p>Felsen vor deinem Anblick zerschmelzen wie Wachs;
-aber denen, die dich fürchten, – ihnen bist du gnädig.</p>
+Felsen vor deinem Anblick zerschmelzen wie Wachs;
+aber denen, die dich fürchten, – ihnen bist du gnädig.
 </blockquote>
 </blockquote>
 <sup>16</sup>Denn geringen Wert hat jegliches Opfer lieblichen Wohlgeruchs
 <blockquote>
 <blockquote>
-<p>und wertlos ist dir alles Fett des Brandopfers;
-doch wer den Herrn fürchtet, ist immerdar groß.</p>
+und wertlos ist dir alles Fett des Brandopfers;
+doch wer den Herrn fürchtet, ist immerdar groß.
 </blockquote>
 </blockquote>
 <sup>17</sup>Wehe den Heiden, die sich wider mein Volk erheben!
 <blockquote>
 <blockquote>
-<p>Der Herr, der Allgebieter, wird sie strafen am Tage des Gerichts;
+Der Herr, der Allgebieter, wird sie strafen am Tage des Gerichts;
 Feuer und Würmer wird er in ihre Leiber geben,
-daß sie heulen vor Schmerzen in Ewigkeit.</p>
+daß sie heulen vor Schmerzen in Ewigkeit.
 </blockquote>
 </blockquote>
 

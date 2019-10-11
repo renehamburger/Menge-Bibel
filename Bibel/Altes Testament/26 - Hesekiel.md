@@ -1788,8 +1788,8 @@ __42__
 
 ##### bb) Die südlichen Priesterzellen
 
-<p>(Als er mich dann) nach Süden zu (geführt hatte, sah ich, daß dort) vor dem eingefriedigten Platz und vor dem Hintergebäude ebenfalls Zellen lagen,<br>
-<sup>11</sup>vor denen sich ein Gang befand und die dasselbe Aussehen hatten wie die Zellen auf der Nordseite, ebenso lang und ebenso breit wie jene; auch bezüglich ihrer Ausgänge und Einrichtungen waren sie völlig gleichartig; und wie ihre Eingänge,</p>
+(Als er mich dann) nach Süden zu (geführt hatte, sah ich, daß dort) vor dem eingefriedigten Platz und vor dem Hintergebäude ebenfalls Zellen lagen,
+<sup>11</sup>vor denen sich ein Gang befand und die dasselbe Aussehen hatten wie die Zellen auf der Nordseite, ebenso lang und ebenso breit wie jene; auch bezüglich ihrer Ausgänge und Einrichtungen waren sie völlig gleichartig; und wie ihre Eingänge,
 <sup>12</sup>so waren auch die Eingänge der Zellen, die nach Süden zu lagen: ein Eingang am Anfang des Weges, der nach dem äußeren Vorhof führte, gegen Osten, wo man hineinkam.
 
 ##### cc) Die Bestimmung der Priesterzellen

@@ -87,8 +87,8 @@ __4__
 
 #### Die Deutung des Gesichts
 
-<p>»Du weißt also nicht, was dies dort bedeutet?« Als ich nun antwortete: »Nein, mein Herr«,<br>
-<sup>6</sup>gab er mir folgende Auskunft: »So lautet das Wort des HERRN an<sup title="oder: über">&#x2732;</sup> Serubbabel: ›Nicht durch Heeresmacht und nicht durch Gewalt (geschieht’s), sondern durch meinen Geist!‹ – so spricht der HERR der Heerscharen.</p>
+»Du weißt also nicht, was dies dort bedeutet?« Als ich nun antwortete: »Nein, mein Herr«,
+<sup>6</sup>gab er mir folgende Auskunft: »So lautet das Wort des HERRN an<sup title="oder: über">&#x2732;</sup> Serubbabel: ›Nicht durch Heeresmacht und nicht durch Gewalt (geschieht’s), sondern durch meinen Geist!‹ – so spricht der HERR der Heerscharen.
 <sup>7</sup>›Wer bist du, großer Berg? Vor Serubbabel sollst du zur Ebene werden! Er wird den Giebelstein<sup title="oder: Schlußstein">&#x2732;</sup> an Ort und Stelle bringen unter dem Jubelruf<sup title="oder: lauten Zuruf">&#x2732;</sup>: ›Heil, Heil sei ihm!‹«
 
 <sup>8</sup>Weiter erging das Wort des HERRN an mich folgendermaßen:

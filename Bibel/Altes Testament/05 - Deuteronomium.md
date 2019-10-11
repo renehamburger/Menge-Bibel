@@ -1296,57 +1296,57 @@ __31__
 
 ### 2. Das Lied Moses
 
-<p>__32__
+__32__
 <sup>1</sup>Horcht auf, ihr Himmel, denn ich will reden,
-und die Erde vernehme die Worte meines Mundes!</p>
-<p><sup>2</sup>Wie Regen ergieße sich meine Belehrung,
+und die Erde vernehme die Worte meines Mundes!
+<sup>2</sup>Wie Regen ergieße sich meine Belehrung,
 wie Tau riesele meine Rede,
 wie Regenschauer auf junges Grün
-und wie Regentropfen auf Pflanzen!</p>
-<p><sup>3</sup>Denn den Namen<sup title="= Ruhm">&#x2732;</sup> des HERRN will ich verkünden:
-gebt unserm Gott die Ehre!</p>
+und wie Regentropfen auf Pflanzen!
+<sup>3</sup>Denn den Namen<sup title="= Ruhm">&#x2732;</sup> des HERRN will ich verkünden:
+gebt unserm Gott die Ehre!
 
-<p><sup>4</sup>Er ist ein Fels, vollkommen ist sein Tun,
+<sup>4</sup>Er ist ein Fels, vollkommen ist sein Tun,
 denn alle seine Wege sind recht;
 ein Gott der Treue und ohne Falsch,
-gerecht und wahrhaftig ist er.</p>
-<p><sup>5</sup>Übel haben an ihm gehandelt, die wegen ihrer Verworfenheit nicht seine Söhne<sup title="oder: Kinder">&#x2732;</sup> sind,
-ein verderbtes und verkehrtes Geschlecht.</p>
-<p><sup>6</sup>Durftest du dem HERRN so vergelten,
+gerecht und wahrhaftig ist er.
+<sup>5</sup>Übel haben an ihm gehandelt, die wegen ihrer Verworfenheit nicht seine Söhne<sup title="oder: Kinder">&#x2732;</sup> sind,
+ein verderbtes und verkehrtes Geschlecht.
+<sup>6</sup>Durftest du dem HERRN so vergelten,
 du törichtes und unverständiges Volk?
 Ist nicht er dein Vater, der dich geschaffen?
-Hat nicht er dich gemacht und bereitet?</p>
+Hat nicht er dich gemacht und bereitet?
 
-<p><sup>7</sup>Gedenke der Tage der Vorzeit,
+<sup>7</sup>Gedenke der Tage der Vorzeit,
 betrachte die Jahre von Geschlecht zu Geschlecht!
 Frag deinen Vater, der wird dir’s kundtun,
-deine Greise, die werden dir’s erzählen:</p>
-<p><sup>8</sup>Als der Höchste den Völkern ihren Erbbesitz zuteilte,
+deine Greise, die werden dir’s erzählen:
+<sup>8</sup>Als der Höchste den Völkern ihren Erbbesitz zuteilte,
 als er die Menschenkinder voneinander schied,
 da setzte er die Gebiete<sup title="oder: Grenzen">&#x2732;</sup> der Stämme fest
-nach der Zahl der Kinder Israel.</p>
-<p><sup>9</sup>Denn der Anteil des HERRN ist sein Volk,
-Jakob der Bezirk seines Erbguts.</p>
+nach der Zahl der Kinder Israel.
+<sup>9</sup>Denn der Anteil des HERRN ist sein Volk,
+Jakob der Bezirk seines Erbguts.
 
-<p><sup>10</sup>Er fand es im Bereich der Wüste,
+<sup>10</sup>Er fand es im Bereich der Wüste,
 in der Einöde voll Geheul der Wildnis;
 er umhegte es schützend, nahm sich seiner an,
-hütete es wie seinen Augapfel.</p>
-<p><sup>11</sup>Wie ein Adler, der seine Brut aus dem Nest hinausführt
+hütete es wie seinen Augapfel.
+<sup>11</sup>Wie ein Adler, der seine Brut aus dem Nest hinausführt
 und über seinen Jungen flatternd schwebt,
 seine Fittiche über sie breitet, sie aufnimmt,
-sie trägt auf seinen Schwingen:</p>
-<p><sup>12</sup>so leitete der HERR allein das Volk,
-kein fremder Gott war mit ihm<sup title="oder: bei ihm">&#x2732;</sup>.</p>
-<p><sup>13</sup>Er ließ es auf den Höhen der Erde einherfahren,
+sie trägt auf seinen Schwingen:
+<sup>12</sup>so leitete der HERR allein das Volk,
+kein fremder Gott war mit ihm<sup title="oder: bei ihm">&#x2732;</sup>.
+<sup>13</sup>Er ließ es auf den Höhen der Erde einherfahren,
 und es aß die Erträgnisse des Gefildes;
 er ließ es Honig aus Felsen schlürfen
-und Öl aus Kieselgestein,</p>
-<p><sup>14</sup>Sahne von Kühen und Milch vom Kleinvieh,
+und Öl aus Kieselgestein,
+<sup>14</sup>Sahne von Kühen und Milch vom Kleinvieh,
 dazu das Fett von Lämmern und Widdern,
 Sprößlinge<sup title="d.h. Stiere">&#x2732;</sup> von Basan und Böcke
 samt dem Nierenfett des Weizens;
-und Traubenblut trankst du, feurigen Wein.</p>
+und Traubenblut trankst du, feurigen Wein.
 
 <sup>15</sup>Da wurde Jeschurun fett und schlug aus
 <ul>
@@ -1354,92 +1354,92 @@ und Traubenblut trankst du, feurigen Wein.</p>
 und verwarf den Gott, der ihn geschaffen,
 und verachtete den Felsen seines Heils.</li>
 </ul>
-<p><sup>16</sup>Sie reizten ihn zur Eifersucht durch fremde Götter,
-erbitterten ihn durch greulichen Götzendienst:</p>
-<p><sup>17</sup>sie opferten den Dämonen, die nicht Gott sind,
+<sup>16</sup>Sie reizten ihn zur Eifersucht durch fremde Götter,
+erbitterten ihn durch greulichen Götzendienst:
+<sup>17</sup>sie opferten den Dämonen, die nicht Gott sind,
 Göttern, die (vorher) ihnen unbekannt gewesen,
 neuen Göttern, die erst vor kurzem aufgekommen waren,
-die eure Väter nicht verehrt hatten.</p>
-<p><sup>18</sup>Des Felsens, der dir das Dasein gegeben, gedachtest du nicht mehr
-und vergaßest den Gott, dem du das Entstehn verdanktest.</p>
+die eure Väter nicht verehrt hatten.
+<sup>18</sup>Des Felsens, der dir das Dasein gegeben, gedachtest du nicht mehr
+und vergaßest den Gott, dem du das Entstehn verdanktest.
 
-<p><sup>19</sup>Der HERR sah es und verwarf sie
-voll Unmuts über seine Söhne und Töchter;</p>
-<p><sup>20</sup>er sprach: »Ich will mein Angesicht vor ihnen verbergen,
+<sup>19</sup>Der HERR sah es und verwarf sie
+voll Unmuts über seine Söhne und Töchter;
+<sup>20</sup>er sprach: »Ich will mein Angesicht vor ihnen verbergen,
 will sehen, welches ihr Ausgang sein wird;
 denn ein Geschlecht voll Verkehrtheit sind sie,
-Kinder, in denen keine Treue wohnt.</p>
-<p><sup>21</sup>Sie haben mich zur Eifersucht gereizt durch Nicht-Götter,
+Kinder, in denen keine Treue wohnt.
+<sup>21</sup>Sie haben mich zur Eifersucht gereizt durch Nicht-Götter,
 mich erbittert durch ihre nichtigen Götzen;
 so will auch ich sie zur Eifersucht reizen durch ein Nicht-Volk,
-durch einen unverständigen Volksstamm sie erbittern.</p>
-<p><sup>22</sup>Denn ein Feuer ist durch meinen Zorn entbrannt
+durch einen unverständigen Volksstamm sie erbittern.
+<sup>22</sup>Denn ein Feuer ist durch meinen Zorn entbrannt
 und hat bis in die Tiefen der Unterwelt gelodert;
 es hat die Erde samt ihrem Ertrag verzehrt
-und die Grundfesten der Berge in Flammen gesetzt.</p>
-<p><sup>23</sup>Ich will Leiden auf sie häufen,
-meine Pfeile gegen sie verbrauchen:</p>
-<p><sup>24</sup>sind sie vor Hunger verschmachtet
+und die Grundfesten der Berge in Flammen gesetzt.
+<sup>23</sup>Ich will Leiden auf sie häufen,
+meine Pfeile gegen sie verbrauchen:
+<sup>24</sup>sind sie vor Hunger verschmachtet
 und von Fieberglut und giftigen Seuchen verzehrt,
 so will ich den Zahn wilder Tiere gegen sie loslassen
-samt dem Gift der im Staube kriechenden Schlangen.</p>
-<p><sup>25</sup>Draußen soll das Schwert sie (der Angehörigen) berauben
+samt dem Gift der im Staube kriechenden Schlangen.
+<sup>25</sup>Draußen soll das Schwert sie (der Angehörigen) berauben
 und drinnen daheim der Schrecken (sie wegraffen),
 den Jüngling wie die Jungfrau,
-den Säugling mitsamt dem Graukopf.«</p>
+den Säugling mitsamt dem Graukopf.«
 
-<p><sup>26</sup>Ich hätte gesagt: »Zerstreuen<sup title="oder: zerschlagen">&#x2732;</sup> will ich sie,
-ihr Gedächtnis unter den Menschen verschwinden lassen!«,</p>
-<p><sup>27</sup>wenn nicht Verdruß ich vom Feinde her fürchtete,
+<sup>26</sup>Ich hätte gesagt: »Zerstreuen<sup title="oder: zerschlagen">&#x2732;</sup> will ich sie,
+ihr Gedächtnis unter den Menschen verschwinden lassen!«,
+<sup>27</sup>wenn nicht Verdruß ich vom Feinde her fürchtete,
 daß nämlich ihre Widersacher es falsch deuteten,
 daß sie sagen möchten: »Unsere Hand hat obgesiegt,
-und nicht der HERR hat dies alles vollbracht!«</p>
-<p><sup>28</sup>Denn ein Volk sind sie, dem alle Einsicht abgeht,
-und kein Verständnis findet sich bei ihnen.</p>
-<p><sup>29</sup>Wären sie weise, daß sie dies begriffen,
-so würden sie bedenken, welches ihr Endgeschick sein wird.</p>
-<p><sup>30</sup>Wie könnte ein einziger Tausend vor sich hertreiben
+und nicht der HERR hat dies alles vollbracht!«
+<sup>28</sup>Denn ein Volk sind sie, dem alle Einsicht abgeht,
+und kein Verständnis findet sich bei ihnen.
+<sup>29</sup>Wären sie weise, daß sie dies begriffen,
+so würden sie bedenken, welches ihr Endgeschick sein wird.
+<sup>30</sup>Wie könnte ein einziger Tausend vor sich hertreiben
 und zwei Zehntausend in die Flucht schlagen,
 hätte nicht ihr Fels sie verkauft
-und der HERR sie preisgegeben?</p>
-<p><sup>31</sup>Denn nicht wie unser Fels ist ihr Fels;
-das müssen unsere Feinde selbst anerkennen.</p>
-<p><sup>32</sup>Doch vom Weinstock Sodoms stammt ihr Weinstock
+und der HERR sie preisgegeben?
+<sup>31</sup>Denn nicht wie unser Fels ist ihr Fels;
+das müssen unsere Feinde selbst anerkennen.
+<sup>32</sup>Doch vom Weinstock Sodoms stammt ihr Weinstock
 und aus den Gefilden Gomorrhas:
 ihre Trauben sind Gifttrauben,
-gallenbittre Beeren haben sie;</p>
-<p><sup>33</sup>Schlangengeifer ist ihr Wein
-und grausiges Otterngift.</p>
+gallenbittre Beeren haben sie;
+<sup>33</sup>Schlangengeifer ist ihr Wein
+und grausiges Otterngift.
 
-<p><sup>34</sup>»Liegt das nicht bei mir aufbewahrt,
-versiegelt in meinen Schatzkammern?</p>
-<p><sup>35</sup>Mir steht die Rache und Vergeltung zu
+<sup>34</sup>»Liegt das nicht bei mir aufbewahrt,
+versiegelt in meinen Schatzkammern?
+<sup>35</sup>Mir steht die Rache und Vergeltung zu
 für die Zeit, da ihr Fuß wanken wird;
 denn nahe ist der Tag ihres Verderbens,
-und eilends kommt das ihnen bestimmte Schicksal heran.«</p>
-<p><sup>36</sup>Denn der HERR wird sein Volk richten,
+und eilends kommt das ihnen bestimmte Schicksal heran.«
+<sup>36</sup>Denn der HERR wird sein Volk richten,
 aber seiner Knechte sich erbarmen,
 wenn er sieht, daß jeder Halt geschwunden
-und daß dahin sind Hörige wie Freie.</p>
-<p><sup>37</sup>Da wird er sagen: »Wo sind nun ihre Götter,
-der Fels, auf den sie sich verließen?</p>
-<p><sup>38</sup>Wo sind die, welche das Fett ihrer Schlachtopfer aßen,
+und daß dahin sind Hörige wie Freie.
+<sup>37</sup>Da wird er sagen: »Wo sind nun ihre Götter,
+der Fels, auf den sie sich verließen?
+<sup>38</sup>Wo sind die, welche das Fett ihrer Schlachtopfer aßen,
 den Wein ihrer Gußopfer tranken?
 Sie mögen auftreten und euch helfen,
-damit sie euer Schirm sind!</p>
-<p><sup>39</sup>Erkennet jetzt, daß ich allein es bin
+damit sie euer Schirm sind!
+<sup>39</sup>Erkennet jetzt, daß ich allein es bin
 und neben mir kein andrer Gott besteht!
 Ich bin’s, der tötet und lebendig macht,
 ich verwunde, aber heile auch wieder,
-und niemand kann aus meiner Hand erretten!</p>
+und niemand kann aus meiner Hand erretten!
 
 <sup>40</sup>Nun denn, ich erhebe meine Hand zum Himmel
 
 und gelobe: So wahr ich ewig lebe:
-<p><sup>41</sup>Hab’ ich mein blitzendes Schwert geschärft
+<sup>41</sup>Hab’ ich mein blitzendes Schwert geschärft
 und hat meine Hand zum Gericht gegriffen,
 so werde ich Rache an meinen Feinden nehmen
-und denen vergelten, die mich hassen!</p>
+und denen vergelten, die mich hassen!
 <sup>42</sup>Meine Pfeile will ich mit Blut trunken machen
 <ul>
 <li>und mein Schwert soll Fleisch fressen –
@@ -1448,10 +1448,10 @@ vom Haupt der Fürsten des Feindes!«
 
 </li>
 </ul>
-<p><sup>43</sup>Jubelt, ihr Heidenvölker, über sein Volk!
+<sup>43</sup>Jubelt, ihr Heidenvölker, über sein Volk!
 denn er wird das Blut seiner Knechte rächen
 und Rache an seinen Bedrängern nehmen
-und entsünd’gen sein Land, sein Volk.</p>
+und entsünd’gen sein Land, sein Volk.
 
 ### 3. Letzte Einschärfung des Gesetzes; Mose empfängt Weisungen bezüglich seines bevorstehenden Todes
 
@@ -1472,124 +1472,124 @@ und entsünd’gen sein Land, sein Volk.</p>
 
 __33__
 <sup>1</sup>Dies ist der Segen, den Mose, der Mann Gottes, über die Israeliten vor seinem Tode ausgesprochen hat.
-<p><sup>2</sup>Er sprach (damals):
+<sup>2</sup>Er sprach (damals):
 »Der HERR kam vom Sinai her
 und erschien seinem Volk von Seir her in strahlendem Glanz;
 er ließ sein Licht vom Gebirge Paran leuchten
 und kam aus der Mitte heiliger Zehntausend-Scharen;
-zu seiner Rechten war loderndes Feuer für sie<sup title="?">&#x2732;</sup>.</p>
-<p><sup>3</sup>Ja, er umgab mit Liebe die Stämme;
+zu seiner Rechten war loderndes Feuer für sie<sup title="?">&#x2732;</sup>.
+<sup>3</sup>Ja, er umgab mit Liebe die Stämme;
 alle seine Heiligen<sup title="oder: Geweihten">&#x2732;</sup> sind in seiner Hand;
 sie waren gelagert längs deiner Bahn,
-so daß jeder etwas von deinen Aussprüchen empfing.</p>
-<p><sup>4</sup>Das Gesetz hat Mose uns verordnet
-als Erbbesitz der Gemeinde Jakobs.</p>
-<p><sup>5</sup>So ist er denn König in Jeschurun<sup title="vgl. 32,15">&#x2732;</sup> geworden,
+so daß jeder etwas von deinen Aussprüchen empfing.
+<sup>4</sup>Das Gesetz hat Mose uns verordnet
+als Erbbesitz der Gemeinde Jakobs.
+<sup>5</sup>So ist er denn König in Jeschurun<sup title="vgl. 32,15">&#x2732;</sup> geworden,
 als die Häupter des Volks sich versammelten,
-die Stämme Israels allzumal.«</p>
+die Stämme Israels allzumal.«
 
 #### b) Segenssprüche über die einzelnen Stämme
 
-<p><sup>6</sup>»Ruben lebe, er sterbe nicht,
-und seine Mannen seien eine Anzahl<sup title="= eine große Zahl">&#x2732;</sup>!«</p>
-<p><sup>7</sup>Und dies ist der Segen für<sup title="oder: über">&#x2732;</sup> Juda, und zwar sagte er:
+<sup>6</sup>»Ruben lebe, er sterbe nicht,
+und seine Mannen seien eine Anzahl<sup title="= eine große Zahl">&#x2732;</sup>!«
+<sup>7</sup>Und dies ist der Segen für<sup title="oder: über">&#x2732;</sup> Juda, und zwar sagte er:
 »Erhöre, HERR, die Stimme Judas
-und bring ihn zurück zu seinem Volk</p>
+und bring ihn zurück zu seinem Volk
 <ul>
 <li>mit seinen Händen hat er ja für es gestritten<sup title="?">&#x2732;</sup> –
 und sei ihm Hilfe wider seine Feinde!«</li>
 </ul>
-<p><sup>8</sup>Und von<sup title="oder: für">&#x2732;</sup> Levi sagte er:
+<sup>8</sup>Und von<sup title="oder: für">&#x2732;</sup> Levi sagte er:
 »Dein Recht-Orakel und dein Licht-Orakel<sup title="vgl. 2.Mose 28,15.29-30">&#x2732;</sup>
 gehört den Männern deines Getreuen,
 den du bei Massa versucht hast,
-für den du an den Wassern von Meriba gestritten hast,</p>
-<p><sup>9</sup>jenen Männern, die von Vater und Mutter sagten:
+für den du an den Wassern von Meriba gestritten hast,
+<sup>9</sup>jenen Männern, die von Vater und Mutter sagten:
 ›Ich kenne sie nicht!‹<sup title="vgl. 2.Mose 32,29">&#x2732;</sup>
 und die ihre Brüder nicht ansahn, von ihren Kindern nichts wissen wollten;
-denn sie bewahrten dein Gebot und hielten an deinem Bunde fest.</p>
-<p><sup>10</sup>Sie sollen Jakob deine Verordnungen lehren und Israel dein Gesetz;
+denn sie bewahrten dein Gebot und hielten an deinem Bunde fest.
+<sup>10</sup>Sie sollen Jakob deine Verordnungen lehren und Israel dein Gesetz;
 sie sollen Weihrauchduft zum Einatmen vor dich bringen
-und Ganzopfer auf deinen Altar.</p>
-<p><sup>11</sup>Segne, HERR, seine Kraft<sup title="oder: sein Heer, oder: seinen Wohlstand?">&#x2732;</sup>
+und Ganzopfer auf deinen Altar.
+<sup>11</sup>Segne, HERR, seine Kraft<sup title="oder: sein Heer, oder: seinen Wohlstand?">&#x2732;</sup>
 und laß dir das Tun seiner Hände gefallen!
 Zerschmettre seinen Gegnern die Hüften
-und seinen Widersachern, daß sie nicht mehr aufstehn!«</p>
+und seinen Widersachern, daß sie nicht mehr aufstehn!«
 
-<p><sup>12</sup>Von<sup title="oder: für">&#x2732;</sup> Benjamin sagte er:
+<sup>12</sup>Von<sup title="oder: für">&#x2732;</sup> Benjamin sagte er:
 »Als Liebling des HERRN wird er in Ruhe bei ihm wohnen;
 er beschirmt ihn allezeit
-und wohnt zwischen seinen Schultern<sup title="= Berghängen">&#x2732;</sup>.«</p>
+und wohnt zwischen seinen Schultern<sup title="= Berghängen">&#x2732;</sup>.«
 
-<p><sup>13</sup>Und von<sup title="oder: für">&#x2732;</sup> Joseph sagte er:
+<sup>13</sup>Und von<sup title="oder: für">&#x2732;</sup> Joseph sagte er:
 »Gesegnet vom HERRN ist<sup title="oder: sei">&#x2732;</sup> sein Land
 mit der köstlichsten Himmelsgabe, mit Tau,
-und mit der Wasserflut, die drunten lagert;</p>
-<p><sup>14</sup>mit dem Köstlichsten, was die Sonne hervorbringt,
-und dem Köstlichsten, was die Monde sprossen lassen;</p>
-<p><sup>15</sup>mit dem Besten, was vom Gipfel der uralten Berge kommt,
-und dem Köstlichsten der ewigen Hügel;</p>
-<p><sup>16</sup>mit dem Köstlichsten der Erde und ihrer Fülle!
+und mit der Wasserflut, die drunten lagert;
+<sup>14</sup>mit dem Köstlichsten, was die Sonne hervorbringt,
+und dem Köstlichsten, was die Monde sprossen lassen;
+<sup>15</sup>mit dem Besten, was vom Gipfel der uralten Berge kommt,
+und dem Köstlichsten der ewigen Hügel;
+<sup>16</sup>mit dem Köstlichsten der Erde und ihrer Fülle!
 Und das Wohlgefallen dessen, der im Dornbusch wohnte<sup title="vgl. 2.Mose 3,2">&#x2732;</sup>,
 das möge kommen auf das Haupt Josephs
-und auf den Scheitel des Geweihten unter seinen Brüdern!</p>
-<p><sup>17</sup>Ein erstgeborener Stier ist er – etwas Herrliches,
+und auf den Scheitel des Geweihten unter seinen Brüdern!
+<sup>17</sup>Ein erstgeborener Stier ist er – etwas Herrliches,
 und seine Hörner sind die eines Wildochsen;
 mit ihnen stößt er Völker nieder,
 allesamt die Enden der Erde.
-So sind die Zehntausende Ephraims und so die Tausende Manasses.«</p>
-<p><sup>18</sup>Und von<sup title="oder: für">&#x2732;</sup> Sebulon sagte er:
+So sind die Zehntausende Ephraims und so die Tausende Manasses.«
+<sup>18</sup>Und von<sup title="oder: für">&#x2732;</sup> Sebulon sagte er:
 »Freue dich, Sebulon, deiner Meerfahrten
-und du, Issaschar, deiner Zelte!</p>
-<p><sup>19</sup>Sie laden Völker ein auf den Berg,
+und du, Issaschar, deiner Zelte!
+<sup>19</sup>Sie laden Völker ein auf den Berg,
 dort opfern sie rechte Opfer<sup title="eig. Opfer der Gerechtigkeit">&#x2732;</sup>;
 denn den Reichtum der Meere saugen sie ein
-und die verborgensten Schätze des Sandes<sup title="oder: Strandes">&#x2732;</sup>.«</p>
+und die verborgensten Schätze des Sandes<sup title="oder: Strandes">&#x2732;</sup>.«
 
-<p><sup>20</sup>Und von<sup title="oder: für">&#x2732;</sup> Gad sagte er:
+<sup>20</sup>Und von<sup title="oder: für">&#x2732;</sup> Gad sagte er:
 »Gepriesen sei der HERR, der Gad weiten Raum schafft!
 Wie eine Löwin hat er sich gelagert
-und zerfleischt Arm und Schädel.</p>
-<p><sup>21</sup>Er hat sich das Erstlingsgebiet ersehen;
+und zerfleischt Arm und Schädel.
+<sup>21</sup>Er hat sich das Erstlingsgebiet ersehen;
 denn dort ward ihm sein Anteil vom Anführer bestimmt.
 Doch ist er zu den Häuptern des Volks gekommen,
 hat die Gerechtigkeit des HERRN vollstreckt
-und seine Strafgerichte gemeinsam mit Israel.«</p>
+und seine Strafgerichte gemeinsam mit Israel.«
 
-<p><sup>22</sup>Und von<sup title="oder: für">&#x2732;</sup> Dan sagte er:
+<sup>22</sup>Und von<sup title="oder: für">&#x2732;</sup> Dan sagte er:
 »Dan ist ein junger Löwe,
-der aus Basan hervorstürmt.«</p>
+der aus Basan hervorstürmt.«
 
-<p><sup>23</sup>Und von<sup title="oder: für">&#x2732;</sup> Naphthali sagte er:
+<sup>23</sup>Und von<sup title="oder: für">&#x2732;</sup> Naphthali sagte er:
 »Naphthali ist gesättigt mit Glück
 und reichlich bedacht mit dem Segen des HERRN;
-Meer und Südland nimm in Besitz!«</p>
+Meer und Südland nimm in Besitz!«
 
-<p><sup>24</sup>Und von<sup title="oder: für">&#x2732;</sup> Asser sagte er:
+<sup>24</sup>Und von<sup title="oder: für">&#x2732;</sup> Asser sagte er:
 »Der gesegnetste unter den Söhnen sei Asser!
 Er sei der Liebling seiner Brüder
-und tauche seinen Fuß in Öl!</p>
-<p><sup>25</sup>Von Eisen und Erz seien deine Riegel,
-und solange du lebst, währe deine Ruhe<sup title="oder: Kraft?">&#x2732;</sup>!«</p>
+und tauche seinen Fuß in Öl!
+<sup>25</sup>Von Eisen und Erz seien deine Riegel,
+und solange du lebst, währe deine Ruhe<sup title="oder: Kraft?">&#x2732;</sup>!«
 
 #### c) Lobpreis des Herrn und des hochbeglückten Israels
 
-<p><sup>26</sup>»Keiner ist dem Gott Jeschuruns<sup title="vgl. 32,15">&#x2732;</sup> gleich,
+<sup>26</sup>»Keiner ist dem Gott Jeschuruns<sup title="vgl. 32,15">&#x2732;</sup> gleich,
 der über den Himmel dahinfährt als dein Helfer
-und in seiner Hoheit auf den Wolken.</p>
-<p><sup>27</sup>Eine Zuflucht für dich ist der Gott der Urzeit,
+und in seiner Hoheit auf den Wolken.
+<sup>27</sup>Eine Zuflucht für dich ist der Gott der Urzeit,
 und unter dir sind ewige Arme ausgebreitet;
 er hat den Feind vor dir her vertrieben
-und dir geboten: ›Vertilge!‹</p>
-<p><sup>28</sup>So wohnt denn Israel in Sicherheit,
+und dir geboten: ›Vertilge!‹
+<sup>28</sup>So wohnt denn Israel in Sicherheit,
 abgesondert für sich der Quell Jakobs
 in einem Land voll Korn und Wein,
-und sein Himmel träufelt Tau.</p>
-<p><sup>29</sup>Heil dir, Israel! Wer ist dir gleich? Ein Volk, gerettet durch den HERRN!
+und sein Himmel träufelt Tau.
+<sup>29</sup>Heil dir, Israel! Wer ist dir gleich? Ein Volk, gerettet durch den HERRN!
 Er ist der Schild, der dich schirmt,
 und das Schwert, das dir Ruhm<sup title="oder: Sieg">&#x2732;</sup> verschafft;
 deine Feinde müssen dir huldigen,
-du aber schreitest dahin auf ihren Höhen!«</p>
+du aber schreitest dahin auf ihren Höhen!«
 
 ### 5. Mose auf dem Berge Nebo; sein Tod und Begräbnis; Josua wird sein Nachfolger
 

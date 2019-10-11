@@ -68,25 +68,25 @@ __1__
 
 #### b) Lobgesang der Maria (das sogenannte ›Magnifikat‹)
 
-<p><sup>46</sup>Darauf sprach Maria<sup title="vgl. 1.Sam 2,1-10">&#x2732;</sup>:
-»Meine Seele erhebt den Herrn,</p>
+<sup>46</sup>Darauf sprach Maria<sup title="vgl. 1.Sam 2,1-10">&#x2732;</sup>:
+»Meine Seele erhebt den Herrn,
 <sup>47</sup>und mein Geist jubelt über Gott, meinen Retter<sup title="oder: Heiland; Hab 3,18">&#x2732;</sup>,
-<p><sup>48</sup>weil er die Niedrigkeit seiner Magd angesehen hat!<sup title="1.Sam 1,11">&#x2732;</sup>
-Denn siehe: von nun an werden alle Geschlechter mich selig preisen,</p>
-<p><sup>49</sup>weil der Allmächtige Großes an mir getan hat<sup title="5.Mose 10,21">&#x2732;</sup>.
-Ja, heilig ist sein Name<sup title="Ps 111,9">&#x2732;</sup>,</p>
-<p><sup>50</sup>und sein Erbarmen wird von Geschlecht zu Geschlecht
-denen zuteil, die ihn fürchten<sup title="Ps 103,17">&#x2732;</sup>.</p>
-<p><sup>51</sup>Er wirkt seine Kraft aus mit seinem Arm,
-er zerstreut, die da hoffärtig sind in ihres Herzens Sinn<sup title="Ps 89,11">&#x2732;</sup></p>
-<p><sup>52</sup>er stürzt Machthaber von den Thronen
-und erhöht Niedrige<sup title="Ps 147,6; Hiob 5,11">&#x2732;</sup>;</p>
-<p><sup>53</sup>Hungrige sättigt er mit Gütern
-und läßt Reiche leer ausgehen<sup title="Ps 107,9; 34,11; 1.Sam 2,5.7-8">&#x2732;</sup>.</p>
-<p><sup>54</sup>Er hat sich Israels angenommen, seines Knechts,
-um der Barmherzigkeit zu gedenken<sup title="Jes 41,8; Ps 98,3">&#x2732;</sup>,</p>
-<p><sup>55</sup>wie er es unsern Vätern verheißen hat,
-dem Abraham und seinen Nachkommen in Ewigkeit.«<sup title="Mi 7,20; 1.Mose 17,7">&#x2732;</sup></p>
+<sup>48</sup>weil er die Niedrigkeit seiner Magd angesehen hat!<sup title="1.Sam 1,11">&#x2732;</sup>
+Denn siehe: von nun an werden alle Geschlechter mich selig preisen,
+<sup>49</sup>weil der Allmächtige Großes an mir getan hat<sup title="5.Mose 10,21">&#x2732;</sup>.
+Ja, heilig ist sein Name<sup title="Ps 111,9">&#x2732;</sup>,
+<sup>50</sup>und sein Erbarmen wird von Geschlecht zu Geschlecht
+denen zuteil, die ihn fürchten<sup title="Ps 103,17">&#x2732;</sup>.
+<sup>51</sup>Er wirkt seine Kraft aus mit seinem Arm,
+er zerstreut, die da hoffärtig sind in ihres Herzens Sinn<sup title="Ps 89,11">&#x2732;</sup>
+<sup>52</sup>er stürzt Machthaber von den Thronen
+und erhöht Niedrige<sup title="Ps 147,6; Hiob 5,11">&#x2732;</sup>;
+<sup>53</sup>Hungrige sättigt er mit Gütern
+und läßt Reiche leer ausgehen<sup title="Ps 107,9; 34,11; 1.Sam 2,5.7-8">&#x2732;</sup>.
+<sup>54</sup>Er hat sich Israels angenommen, seines Knechts,
+um der Barmherzigkeit zu gedenken<sup title="Jes 41,8; Ps 98,3">&#x2732;</sup>,
+<sup>55</sup>wie er es unsern Vätern verheißen hat,
+dem Abraham und seinen Nachkommen in Ewigkeit.«<sup title="Mi 7,20; 1.Mose 17,7">&#x2732;</sup>
 <sup>56</sup>Maria blieb dann etwa drei Monate bei Elisabeth und kehrte hierauf in ihr Haus zurück.
 
 ### 4. Geburt, Beschneidung und Jugend des Johannes; Lobgesang des Zacharias
@@ -105,27 +105,27 @@ dem Abraham und seinen Nachkommen in Ewigkeit.«<sup title="Mi 7,20; 1.Mose 17,7
 #### Prophetisches Loblied des Zacharias (das sogenannte ›Benediktus‹)
 
 <sup>67</sup>Und sein Vater Zacharias wurde mit heiligem Geist erfüllt und sprach die prophetischen Worte aus:
-<p><sup>68</sup>»Gepriesen sei der Herr, der Gott Israels!<sup title="Ps 41,14; 72,18">&#x2732;</sup>,
-Denn er hat sein Volk gnädig angesehen und ihm eine Erlösung geschaffen<sup title="Ps 111,4">&#x2732;</sup></p>
-<p><sup>69</sup>und hat uns ein Horn des Heils aufgerichtet
-im Hause Davids, seines Knechtes<sup title="Ps 132,17; 1.Sam 2,10">&#x2732;</sup>.</p>
+<sup>68</sup>»Gepriesen sei der Herr, der Gott Israels!<sup title="Ps 41,14; 72,18">&#x2732;</sup>,
+Denn er hat sein Volk gnädig angesehen und ihm eine Erlösung geschaffen<sup title="Ps 111,4">&#x2732;</sup>
+<sup>69</sup>und hat uns ein Horn des Heils aufgerichtet
+im Hause Davids, seines Knechtes<sup title="Ps 132,17; 1.Sam 2,10">&#x2732;</sup>.
 <sup>70</sup>So hat er es durch den Mund seiner heiligen Propheten von alters her verheißen:
 <sup>71</sup>retten will er uns von unsern Feinden und aus der Hand aller, die uns hassen<sup title="Ps 106,10">&#x2732;</sup>,
-<p><sup>72</sup>um unsern Vätern Barmherzigkeit zu erweisen<sup title="Mi 7,20">&#x2732;</sup>
-und seines heiligen Bundes zu gedenken<sup title="Ps 105,8-9; 106,45; 1.Mose 17,7">&#x2732;</sup>,</p>
-<p><sup>73</sup>des Eides, den er unserm Vater Abraham geschworen hat<sup title="1.Mose 22,16-17; Jer 11,5">&#x2732;</sup>,
-er wolle uns erretten aus der Hand unserer Feinde</p>
+<sup>72</sup>um unsern Vätern Barmherzigkeit zu erweisen<sup title="Mi 7,20">&#x2732;</sup>
+und seines heiligen Bundes zu gedenken<sup title="Ps 105,8-9; 106,45; 1.Mose 17,7">&#x2732;</sup>,
+<sup>73</sup>des Eides, den er unserm Vater Abraham geschworen hat<sup title="1.Mose 22,16-17; Jer 11,5">&#x2732;</sup>,
+er wolle uns erretten aus der Hand unserer Feinde
 <sup>74</sup>und uns verleihen, daß wir ihm furchtlos dienen
-<p><sup>75</sup>in Heiligkeit und Gerechtigkeit
-vor seinen Augen alle Tage unsers Lebens.</p>
-<p><sup>76</sup>Aber auch du, Knäblein, wirst ein Prophet des Höchsten genannt werden;
-denn du wirst vor dem Herrn einhergehen, ihm die Wege zu bereiten<sup title="Mal 3,1">&#x2732;</sup>,</p>
-<p><sup>77</sup>um seinem Volke die Erkenntnis des Heils zu verschaffen,
-die ihnen durch Vergebung ihrer Sünden zuteil werden wird<sup title="Jer 31,34">&#x2732;</sup>.</p>
-<p><sup>78</sup>So will es das herzliche Erbarmen unsers Gottes,
-mit dem uns der Aufgang aus der Höhe erschienen ist<sup title="Jes 60,1-2; Mal 3,20">&#x2732;</sup>,</p>
-<p><sup>79</sup>um denen Licht zu spenden, die in Finsternis und Todesschatten sitzen<sup title="Jes 9,2">&#x2732;</sup>,
-und unsere Füße<sup title="= Schritte">&#x2732;</sup> auf den Weg des Friedens zu leiten.« –</p>
+<sup>75</sup>in Heiligkeit und Gerechtigkeit
+vor seinen Augen alle Tage unsers Lebens.
+<sup>76</sup>Aber auch du, Knäblein, wirst ein Prophet des Höchsten genannt werden;
+denn du wirst vor dem Herrn einhergehen, ihm die Wege zu bereiten<sup title="Mal 3,1">&#x2732;</sup>,
+<sup>77</sup>um seinem Volke die Erkenntnis des Heils zu verschaffen,
+die ihnen durch Vergebung ihrer Sünden zuteil werden wird<sup title="Jer 31,34">&#x2732;</sup>.
+<sup>78</sup>So will es das herzliche Erbarmen unsers Gottes,
+mit dem uns der Aufgang aus der Höhe erschienen ist<sup title="Jes 60,1-2; Mal 3,20">&#x2732;</sup>,
+<sup>79</sup>um denen Licht zu spenden, die in Finsternis und Todesschatten sitzen<sup title="Jes 9,2">&#x2732;</sup>,
+und unsere Füße<sup title="= Schritte">&#x2732;</sup> auf den Weg des Friedens zu leiten.« –
 <sup>80</sup>Das Knäblein aber wuchs heran und wurde stark am Geist und hielt sich in der Einöde auf bis zum Tage seines öffentlichen Auftretens vor Israel.
 
 ### 5. Geburt Jesu in Bethlehem
@@ -174,12 +174,12 @@ __2__
 <sup>26</sup>Vom heiligen Geist war ihm auch geoffenbart worden, er solle den Tod nicht eher sehen, bevor er den Gesalbten des Herrn gesehen hätte.
 <sup>27</sup>So kam er denn damals, vom Geist getrieben, in den Tempel; und als die Eltern das Jesuskind hineinbrachten, um nach dem Brauch<sup title="oder: der Vorschrift">&#x2732;</sup> des Gesetzes mit ihm zu verfahren,
 <sup>28</sup>da nahm auch er es in seine Arme und pries Gott mit den Worten:
-<p><sup>29</sup>»Herr, nun entläßt du deinen Knecht,
-wie du ihm verheißen hast<sup title="vgl. V.26">&#x2732;</sup>, im Frieden;</p>
+<sup>29</sup>»Herr, nun entläßt du deinen Knecht,
+wie du ihm verheißen hast<sup title="vgl. V.26">&#x2732;</sup>, im Frieden;
 <sup>30</sup>denn meine Augen haben dein Heil gesehen<sup title="Jes 40,5">&#x2732;</sup>,
 <sup>31</sup>das du vor den Augen aller Völker<sup title="Jes 52,10">&#x2732;</sup> bereitet hast,
-<p><sup>32</sup>ein Licht zur Erleuchtung der Heiden<sup title="Jes 42,6; 49,6">&#x2732;</sup>
-und zur Verherrlichung deines Volkes Israel.«</p>
+<sup>32</sup>ein Licht zur Erleuchtung der Heiden<sup title="Jes 42,6; 49,6">&#x2732;</sup>
+und zur Verherrlichung deines Volkes Israel.«
 <sup>33</sup>Die beiden Eltern Jesu verwunderten sich über das, was da über das Kind gesagt wurde.
 <sup>34</sup>Simeon aber segnete sie und sagte zu Maria, seiner Mutter: »Wisse wohl: dieser ist vielen zum Fallen und (vielen) zum Aufstehen in Israel bestimmt und zu einem Zeichen, das Widerspruch erfährt –
 <sup>35</sup>und auch dir selbst wird ein Schwert durch die Seele dringen –, auf daß aus vielen Herzen die Gedanken offenbar werden.«

@@ -145,8 +145,8 @@ __4__
 
 #### b) Jerusalems Klagelied über seine Vereinsamung (4,9-16)
 
-<p>»Hört ihr, die ihr um Zion wohnt! denn Gott hat großes Leid über mich gebracht;<br>
-<sup>10</sup>denn ich habe die Wegführung meiner Söhne und Töchter gesehen, die der Ewige über sie verhängt hat.</p>
+»Hört ihr, die ihr um Zion wohnt! denn Gott hat großes Leid über mich gebracht;
+<sup>10</sup>denn ich habe die Wegführung meiner Söhne und Töchter gesehen, die der Ewige über sie verhängt hat.
 <sup>11</sup>Ach mit Freuden hatte ich sie großgezogen, aber mit Klage und Trauer habe ich sie wegziehen lassen!
 <sup>12</sup>Niemand möge sich freuen über mich, die ich Witwe geworden und von so vielen verlassen bin! Ich bin einsam geworden wegen der Sünden meiner Kinder, weil sie abgewichen waren von Gottes Gesetz,
 <sup>13</sup>und seiner Satzungen nicht achteten und auf den Wegen der Gebote Gottes nicht wandelten und die Pfade der Zucht nicht in seiner Gerechtigkeit betraten.

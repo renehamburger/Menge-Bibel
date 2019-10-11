@@ -35,8 +35,8 @@ __2__
 
 #### b) Aufzählung der Rückwandernden
 
-<p>Die Zahl der Männer des Volkes Israel betrug:<br>
-<sup>3</sup>die Familie Parhos 2172;</p>
+Die Zahl der Männer des Volkes Israel betrug:
+<sup>3</sup>die Familie Parhos 2172;
 <sup>4</sup>die Familie Sephatja 372;
 <sup>5</sup>die Familie Arah 775;
 <sup>6</sup>die Familie Pahath-Moab, nämlich die Familien Jesua und Joab, 2812;

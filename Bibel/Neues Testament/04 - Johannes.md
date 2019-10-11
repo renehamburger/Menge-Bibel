@@ -991,8 +991,8 @@ __16__
 
 ##### dd) Verheißung des heiligen Geistes und dessen segensreiches Wirken an der Welt und in den Jüngern
 
-<p>»Dies habe ich euch aber nicht gleich anfangs gesagt, weil ich noch bei euch war.<br>
-<sup>5</sup>Jetzt aber gehe ich hin zu dem, der mich gesandt hat, und keiner von euch fragt mich: ›Wohin gehst du?‹,</p>
+»Dies habe ich euch aber nicht gleich anfangs gesagt, weil ich noch bei euch war.
+<sup>5</sup>Jetzt aber gehe ich hin zu dem, der mich gesandt hat, und keiner von euch fragt mich: ›Wohin gehst du?‹,
 <sup>6</sup>sondern weil ich dies zu euch gesagt habe, hat die Traurigkeit euer Herz erfüllt.
 <sup>7</sup>Aber ich sage euch die Wahrheit: Es ist gut für euch, daß ich weggehe. Denn wenn ich nicht weggehe, so wird der Helfer<sup title="oder: Anwalt, Beistand">&#x2732;</sup> nicht zu euch kommen; wenn ich aber hingegangen bin, werde ich ihn zu euch senden.
 <sup>8</sup>Und wenn er gekommen ist, wird er der Welt die Augen öffnen über Sünde und über Gerechtigkeit und über Gericht:

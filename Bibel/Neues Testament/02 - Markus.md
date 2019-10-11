@@ -309,8 +309,8 @@ __6__
 
 ### 7. Aussendung und Anweisung der zwölf Jünger
 
-<p>Er zog dann in den umliegenden Ortschaften umher und lehrte dort.<br>
-<sup>7</sup>Darauf rief er die Zwölf zu sich und begann sie paarweise auszusenden; dabei gab er ihnen Macht über die unreinen Geister</p>
+Er zog dann in den umliegenden Ortschaften umher und lehrte dort.
+<sup>7</sup>Darauf rief er die Zwölf zu sich und begann sie paarweise auszusenden; dabei gab er ihnen Macht über die unreinen Geister
 <sup>8</sup>und gebot ihnen, nichts auf den Weg mitzunehmen als nur einen Stock, kein Brot, keinen Ranzen<sup title="oder: keine Reisetasche">&#x2732;</sup> und kein Geld im Gürtel;
 <sup>9</sup>jedoch Sandalen sollten sie sich unterbinden, aber nicht zwei Röcke<sup title="oder: Unterkleider">&#x2732;</sup> anziehen.
 <sup>10</sup>Weiter gab er ihnen die Weisung: »Wo ihr in ein Haus eingetreten<sup title="= eingekehrt">&#x2732;</sup> seid, da bleibt, bis ihr von dort weiterzieht;

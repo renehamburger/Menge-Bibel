@@ -1,8 +1,8 @@
 # DAS GEBET MANASSES
 
-<p><sup title="Zusatz zu 2.Chr 33">&#x2732;</sup><br>
+<sup title="Zusatz zu 2.Chr 33">&#x2732;</sup>
 __1__
-<sup>1</sup>Allmächtiger Herr, Gott unsrer Väter Abraham, Isaak und Jakob und ihrer gerechten Nachkommenschaft!</p>
+<sup>1</sup>Allmächtiger Herr, Gott unsrer Väter Abraham, Isaak und Jakob und ihrer gerechten Nachkommenschaft!
 <sup>2</sup>der du Himmel und Erde geschaffen mit allem, was sie schmückt;
 <sup>3</sup>der du durch das bestimmte Gebot deines Wortes das Meer gefesselt, der du die Tiefe verschlossen und versiegelt hast mit deinem furchtbaren und herrlichen Namen;
 <sup>4</sup>du, vor dem alles bebt und vor deiner Allmacht zittert –
