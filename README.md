@@ -64,43 +64,43 @@
 
 <table>
   <tr>
-    <td><a href="Bibel/Neues%20Testament/01%20-%20Matthäus">Matthäus</a></td>
-    <td><a href="Bibel/Neues%20Testament/02%20-%20Markus">Markus</a></td>
-    <td><a href="Bibel/Neues%20Testament/03%20-%20Lukas">Lukas</a></td>
-    <td><a href="Bibel/Neues%20Testament/04%20-%20Johannes">Johannes</a></td>
-    <td><a href="Bibel/Neues%20Testament/05%20-%20Apostelgeschichte">Apostelgeschichte</a></td>
+    <td><a href="Bibel/Neues%20Testament/Matthäus">Matthäus</a></td>
+    <td><a href="Bibel/Neues%20Testament/Markus">Markus</a></td>
+    <td><a href="Bibel/Neues%20Testament/Lukas">Lukas</a></td>
+    <td><a href="Bibel/Neues%20Testament/Johannes">Johannes</a></td>
+    <td><a href="Bibel/Neues%20Testament/Apostelgeschichte">Apostelgeschichte</a></td>
   </tr>
   <tr>
-    <td><a href="Bibel/Neues%20Testament/06%20-%20Römer">Römer</a></td>
-    <td><a href="Bibel/Neues%20Testament/07%20-%201.%20Korinther">1. Korinther</a></td>
-    <td><a href="Bibel/Neues%20Testament/08%20-%202.%20Korinther">2. Korinther</a></td>
-    <td><a href="Bibel/Neues%20Testament/09%20-%20Galater">Galater</a></td>
-    <td><a href="Bibel/Neues%20Testament/10%20-%20Epheser">Epheser</a></td>
+    <td><a href="Bibel/Neues%20Testament/Römer">Römer</a></td>
+    <td><a href="Bibel/Neues%20Testament/1Korinther">1. Korinther</a></td>
+    <td><a href="Bibel/Neues%20Testament/2Korinther">2. Korinther</a></td>
+    <td><a href="Bibel/Neues%20Testament/Galater">Galater</a></td>
+    <td><a href="Bibel/Neues%20Testament/Epheser">Epheser</a></td>
   </tr>
   <tr>
-    <td><a href="Bibel/Neues%20Testament/11%20-%20Philipper">Philipper</a></td>
-    <td><a href="Bibel/Neues%20Testament/12%20-%20Kolosser">Kolosser</a></td>
-    <td><a href="Bibel/Neues%20Testament/13%20-%201.%20Thessalonicher">1. Thessalonicher</a></td>
-    <td><a href="Bibel/Neues%20Testament/14%20-%202.%20Thessalonicher">2. Thessalonicher</a></td>
-    <td><a href="Bibel/Neues%20Testament/15%20-%201.%20Timotheus">1. Timotheus</a></td>
+    <td><a href="Bibel/Neues%20Testament/1Philipper">Philipper</a></td>
+    <td><a href="Bibel/Neues%20Testament/Kolosser">Kolosser</a></td>
+    <td><a href="Bibel/Neues%20Testament/1Thessalonicher">1. Thessalonicher</a></td>
+    <td><a href="Bibel/Neues%20Testament/2Thessalonicher">2. Thessalonicher</a></td>
+    <td><a href="Bibel/Neues%20Testament/1Timotheus">1. Timotheus</a></td>
   </tr>
   <tr>
-    <td><a href="Bibel/Neues%20Testament/16%20-%202.%20Timotheus">2. Timotheus</a></td>
-    <td><a href="Bibel/Neues%20Testament/17%20-%20Titus">Titus</a></td>
-    <td><a href="Bibel/Neues%20Testament/18%20-%20Philemon">Philemon</a></td>
-    <td><a href="Bibel/Neues%20Testament/19%20-%20Hebräer">Hebräer</a></td>
-    <td><a href="Bibel/Neues%20Testament/20%20-%20Jakobus">Jakobus</a></td>
+    <td><a href="Bibel/Neues%20Testament/2Timotheus">2. Timotheus</a></td>
+    <td><a href="Bibel/Neues%20Testament/Titus">Titus</a></td>
+    <td><a href="Bibel/Neues%20Testament/Philemon">Philemon</a></td>
+    <td><a href="Bibel/Neues%20Testament/Hebräer">Hebräer</a></td>
+    <td><a href="Bibel/Neues%20Testament/Jakobus">Jakobus</a></td>
   </tr>
   <tr>
-    <td><a href="Bibel/Neues%20Testament/21%20-%201.%20Petrus">1. Petrus</a></td>
-    <td><a href="Bibel/Neues%20Testament/22%20-%202.%20Petrus">2. Petrus</a></td>
-    <td><a href="Bibel/Neues%20Testament/23%20-%201.%20Johannes">1. Johannes</a></td>
-    <td><a href="Bibel/Neues%20Testament/24%20-%202.%20Johannes">2. Johannes</a></td>
-    <td><a href="Bibel/Neues%20Testament/25%20-%203.%20Johannes">3. Johannes</a></td>
+    <td><a href="Bibel/Neues%20Testament/1Petrus">1. Petrus</a></td>
+    <td><a href="Bibel/Neues%20Testament/2Petrus">2. Petrus</a></td>
+    <td><a href="Bibel/Neues%20Testament/1Johannes">1. Johannes</a></td>
+    <td><a href="Bibel/Neues%20Testament/2Johannes">2. Johannes</a></td>
+    <td><a href="Bibel/Neues%20Testament/3Johannes">3. Johannes</a></td>
   </tr>
   <tr>
-    <td><a href="Bibel/Neues%20Testament/26%20-%20Judas">Judas</a></td>
-    <td><a href="Bibel/Neues%20Testament/27%20-%20Offenbarung">Offenbarung</a></td>
+    <td><a href="Bibel/Neues%20Testament/Judas">Judas</a></td>
+    <td><a href="Bibel/Neues%20Testament/Offenbarung">Offenbarung</a></td>
   </tr>
 </table>
 
@@ -108,21 +108,21 @@
 
 <table>
   <tr>
-    <td><a href="Bibel/Apokryphen/01%20-%20Judit">Judit</a></td>
-    <td><a href="Bibel/Apokryphen/02%20-%20Weisheit">Weisheit</a></td>
-    <td><a href="Bibel/Apokryphen/03%20-%20Tobit">Tobit</a></td>
-    <td><a href="Bibel/Apokryphen/04%20-%20Sirach">Sirach</a></td>
+    <td><a href="Bibel/Apokryphen/Judit">Judit</a></td>
+    <td><a href="Bibel/Apokryphen/Weisheit">Weisheit</a></td>
+    <td><a href="Bibel/Apokryphen/Tobit">Tobit</a></td>
+    <td><a href="Bibel/Apokryphen/Sirach">Sirach</a></td>
   </tr>
   <tr>
-    <td><a href="Bibel/Apokryphen/05%20-%20Baruch">Baruch</a></td>
-    <td><a href="Bibel/Apokryphen/06%20-%20Brief%20Jeremias">Brief Jeremias</a></td>
-    <td><a href="Bibel/Apokryphen/07%20-%201.%20Makkabäer">1. Makkabäer</a></td>
-    <td><a href="Bibel/Apokryphen/08%20-%202.%20Makkabäer">2. Makkabäer</a></td>
+    <td><a href="Bibel/Apokryphen/Baruch">Baruch</a></td>
+    <td><a href="Bibel/Apokryphen/BriefJeremias">Brief Jeremias</a></td>
+    <td><a href="Bibel/Apokryphen/1Makkabäer">1. Makkabäer</a></td>
+    <td><a href="Bibel/Apokryphen/2Makkabäer">2. Makkabäer</a></td>
   </tr>
   <tr>
-    <td><a href="Bibel/Apokryphen/09%20-%20Zusätze%20Ester">Zusätze Ester</a></td>
-    <td><a href="Bibel/Apokryphen/10%20-%20Zusätze%20Daniel">Zusätze Daniel</a></td>
-    <td><a href="Bibel/Apokryphen/11%20-%20Gebet%20Manasses">Gebet Manasses</a></td>
+    <td><a href="Bibel/Apokryphen/ZusätzeEster">Zusätze Ester</a></td>
+    <td><a href="Bibel/Apokryphen/ZusätzeDaniel">Zusätze Daniel</a></td>
+    <td><a href="Bibel/Apokryphen/Manasse">Gebet Manasses</a></td>
   </tr>
 </table>
 
