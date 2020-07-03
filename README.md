@@ -15,7 +15,7 @@ Dieses Repository enthält eine Markdown-Version der gemeinfreien [Menge-Bibel](
   <tr>
     <td><a href="Bibel/Altes%20Testament/06%20-%20Josua.md">Josua</a></td>
     <td><a href="Bibel/Altes%20Testament/07%20-%20Richter.md">Richter</a></td>
-    <td><a href="Bibel/Altes%20Testament/08%20-%20Rut.md">Rut</a></td>
+    <td><a href="Bibel/Altes%20Testament/08%20-%20Ruth.md">Ruth</a></td>
     <td><a href="Bibel/Altes%20Testament/09%20-%201.%20Samuel.md">1. Samuel</a></td>
     <td><a href="Bibel/Altes%20Testament/10%20-%202.%20Samuel.md">2. Samuel</a></td>
   </tr>
@@ -28,7 +28,7 @@ Dieses Repository enthält eine Markdown-Version der gemeinfreien [Menge-Bibel](
   </tr>
   <tr>
     <td><a href="Bibel/Altes%20Testament/16%20-%20Nehemia.md">Nehemia</a></td>
-    <td><a href="Bibel/Altes%20Testament/17%20-%20Ester.md">Ester</a></td>
+    <td><a href="Bibel/Altes%20Testament/17%20-%20Esther.md">Esther</a></td>
     <td><a href="Bibel/Altes%20Testament/18%20-%20Hiob.md">Hiob</a></td>
     <td><a href="Bibel/Altes%20Testament/19%20-%20Psalmen.md">Psalmen</a></td>
     <td><a href="Bibel/Altes%20Testament/20%20-%20Sprüche.md">Sprüche</a></td>
@@ -122,7 +122,7 @@ Dieses Repository enthält eine Markdown-Version der gemeinfreien [Menge-Bibel](
     <td><a href="Bibel/Apokryphen/08%20-%202.%20Makkabäer.md">2. Makkabäer</a></td>
   </tr>
   <tr>
-    <td><a href="Bibel/Apokryphen/09%20-%20Zusätze%20Ester.md">Zusätze Ester</a></td>
+    <td><a href="Bibel/Apokryphen/09%20-%20Zusätze%20Esther.md">Zusätze Esther</a></td>
     <td><a href="Bibel/Apokryphen/10%20-%20Zusätze%20Daniel.md">Zusätze Daniel</a></td>
     <td><a href="Bibel/Apokryphen/11%20-%20Gebet%20Manasses.md">Gebet Manasses</a></td>
   </tr>
