@@ -15,6 +15,7 @@
   "license": "CC0-1.0",
   "scripts": {
     "getBible": "ts-node load-html.ts",
+    "getBibleChapters": "ts-node load-html-chapters.ts",
     "getBible.debug": "node --require ts-node/register --inspect-brk load-html.ts",
     "concatenate": "cat ../Bibel/**/*.md > ../export/MengeBibel.md",
     "convertToText": "ts-node convert-to-text.ts"
