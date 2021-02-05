@@ -688,7 +688,7 @@ __13__
 <sup>8</sup>vom Stamme Ephraim: Hosea, der Sohn Nuns;
 <sup>9</sup>vom Stamme Benjamin: Palti, der Sohn Raphus;
 <sup>10</sup>vom Stamme Sebulon: Gaddiel, der Sohn Sodis;
-<sup>11</sup>
+<sup>11</sup>[vom Stamme Joseph] vom Stamme Manasse: Gaddi, der Sohn Susis;
 <sup>12</sup>vom Stamme Dan: Ammiel, der Sohn Gemallis;
 <sup>13</sup>vom Stamme Asser: Sethur, der Sohn Michaels;
 <sup>14</sup>vom Stamme Naphthali: Nahbi, der Sohn Wophsis;

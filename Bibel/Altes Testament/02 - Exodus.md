@@ -888,13 +888,13 @@ __21__
 <sup>35</sup>Wenn jemandes Rind das Rind eines andern so stößt, daß es stirbt, so sollen sie das lebende Rind verkaufen und sich in den dadurch gewonnenen Erlös teilen, und auch das tote Tier sollen sie unter sich teilen.
 <sup>36</sup>War es jedoch bekannt, daß das Rind schon vorher stößig war, und hatte sein Eigentümer trotzdem es nicht gehörig gehütet, so soll er unweigerlich ein Rind für das Rind als Ersatz geben, das tote Tier aber soll ihm gehören.
 
-<sup>37</sup>Wenn jemand ein Rind oder ein Stück Kleinvieh stiehlt und es schlachtet oder verkauft, so soll er für das eine Rind fünf Rinder und für das eine Stück Kleinvieh vier Stück erstatten.
+<sup>37</sup>Wenn jemand ein Rind oder ein Stück Kleinvieh stiehlt und es schlachtet oder verkauft, so soll er für das eine Rind fünf Rinder und für das eine Stück Kleinvieh vier Stück erstatten. Ersatz muß er unbedingt leisten; wenn er nichts besitzt, so soll er zum Ersatz für das von ihm Gestohlene verkauft werden.
 
-<sup>1</sup>Wird ein Dieb beim Einbruch betroffen und totgeschlagen, so ist dies für den Täter nicht als Mord<sup title="oder: Blutschuld">&#x2732;</sup> anzusehen;
-<sup>2</sup>a wenn aber die Sonne zur Zeit der Tat über ihm schon aufgegangen war, so soll ein Mord<sup title="oder: Blutschuld">&#x2732;</sup> für ihn als vorliegend angenommen werden.
-<sup>2</sup>a wenn aber die Sonne zur Zeit der Tat über ihm schon aufgegangen war, so soll ein Mord<sup title="oder: Blutschuld">&#x2732;</sup> für ihn als vorliegend angenommen werden.
+
 
 __22__
+<sup>1</sup>Wird ein Dieb beim Einbruch betroffen und totgeschlagen, so ist dies für den Täter nicht als Mord<sup title="oder: Blutschuld">&#x2732;</sup> anzusehen;
+<sup>2</sup> wenn aber die Sonne zur Zeit der Tat über ihm schon aufgegangen war, so soll ein Mord<sup title="oder: Blutschuld">&#x2732;</sup> für ihn als vorliegend angenommen werden.
 <sup>3</sup>Wird das gestohlene Tier, es sei ein Rind oder ein Esel oder ein Stück Kleinvieh, noch lebend in seinem Besitz vorgefunden, so soll er nur doppelten Ersatz leisten;
 <sup>4</sup>Läßt jemand ein Feld oder einen Baumgarten abweiden und sein Vieh dabei frei laufen, so daß es auf dem Felde eines andern weidet, so hat er mit dem besten Ertrage seines Feldes und mit dem besten Ertrage seines Baumgartens Ersatz zu leisten. –
 <sup>5</sup>Wenn Feuer ausbricht und Dornhecken ergreift und es wird ein Garbenhaufen oder das auf dem Halm stehende Getreide oder das Feld dadurch verbrannt, so soll der, welcher den Brand verursacht hat, den Schaden ersetzen.«

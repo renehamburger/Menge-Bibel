@@ -955,7 +955,7 @@ __23__
 
 ##### aa) Klage über die allgemeine Verderbnis und die Verworfenheit der geistlichen Führer
 
-<sup>9</sup>
+<sup>9</sup>[Über die Propheten:] Gebrochen ist mir das Herz in der Brust, es zittern mir alle Glieder; mir ist zu Sinn wie einem Trunkenen, wie einem Manne, den der Wein übermannt hat, vor dem HERRN und vor seinen heiligen Worten!
 <sup>10</sup>Ach, das Land ist voll von Ehebrechern! Ach, unter dem Fluch liegt das Land in Trauer darnieder, sind die Auen der Trift verdorrt, weil ihr ganzes Trachten Bosheit ist und ihr Schalten Unredlichkeit.
 <sup>11</sup>»Denn beide, Propheten und Priester, sind ruchlos: sogar in meinem Tempel habe ich ihr böses Treiben angetroffen!« – so lautet der Ausspruch des HERRN.
 <sup>12</sup>»Darum soll ihr Weg für sie werden wie schlüpfriger Boden: in der Dunkelheit sollen sie anstoßen, daß sie auf ihm zu Fall kommen; denn ich will Unheil, will das Jahr ihrer Heimsuchung über sie bringen!« – so lautet der Ausspruch des HERRN.

@@ -92,7 +92,7 @@ __3__
 <sup>23</sup>Nächst ihnen besserten Benjamin und Hassub ihrem Hause gegenüber aus; nächst ihnen Asarja, der Sohn Maasejas, des Sohnes Ananjas, neben seinem Hause. –
 <sup>24</sup>Nächst ihm besserte Binnui, der Sohn Henadads, eine zweite Strecke aus vom Hause Asarjas bis an den Winkel und bis an die Ecke.
 <sup>25</sup>Palal, der Sohn Usais, arbeitete gegenüber dem Winkel und dem oberen Turm, der am königlichen Palast<sup title="oder: Schloß">&#x2732;</sup> beim Gefängnishof vorspringt. – Nächst ihm besserte Pedaja aus, der Sohn des Parhos,
-<sup>26</sup>
+<sup>26</sup>[die Tempelhörigen aber wohnten auf dem Ophel,] bis gegenüber dem Wassertor nach Osten zu und dem vorspringenden Turm. –
 <sup>27</sup>Nächst ihm besserten die Thekoiter eine zweite Strecke aus, dem großen vorspringenden Turm gegenüber und bis an die Mauer des Ophel.
 
 <sup>28</sup>Oberhalb des Roßtores besserten die Priester aus, ein jeder seinem Hause gegenüber. –

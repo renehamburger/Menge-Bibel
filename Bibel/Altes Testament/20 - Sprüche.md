@@ -540,7 +540,7 @@ __16__
 <sup>8</sup>Besser wenig mit Gerechtigkeit<sup title="= Rechttun">&#x2732;</sup>, als ein großes Einkommen mit Unrecht. –
 <sup>9</sup>Des Menschen Herz erdenkt sich seinen Weg, der HERR aber lenkt seine Schritte. –
 <sup>10</sup>Ein Gottesurteil liegt auf den Lippen des Königs: beim Rechtsprechen verfehlt sich sein Mund nicht. –
-<sup>11</sup>
+<sup>11</sup>[Richtige] Waage und Waagschalen sind Gottes Sache; sein Werk sind alle Gewichtstücke im Beutel. –
 <sup>12</sup>Das Verüben von Freveltaten ist den Königen ein Greuel; denn nur durch Gerechtigkeit steht ein Thron fest. –
 <sup>13</sup>Wahrhaftige Lippen gefallen dem Könige wohl, und wer aufrichtig redet, den liebt er. –
 <sup>14</sup>Des Königs Zorn gleicht Todesboten, aber ein weiser Mann besänftigt diesen (Zorn). –
