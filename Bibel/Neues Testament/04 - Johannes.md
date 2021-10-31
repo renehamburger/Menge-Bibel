@@ -1076,7 +1076,7 @@ __18__
 <sup>1</sup>Nachdem Jesus so gebetet hatte, ging er mit seinen Jüngern (aus der Stadt) hinaus über den Bach Kidron hinüber an einen Ort, wo ein Garten war, in den er mit seinen Jüngern eintrat.
 <sup>2</sup>Aber auch Judas, sein Verräter, kannte diesen Ort, weil Jesus dort oft mit seinen Jüngern zusammengekommen war.
 <sup>3</sup>Nachdem nun Judas die Abteilung<sup title="oder: eine Schar">&#x2732;</sup> Soldaten und von den Hohenpriestern und Pharisäern Diener erhalten hatte, kam er mit Fackeln, Laternen und Waffen dorthin.
-<sup>4</sup>Wiewohl nun Jesus alles wußte, was über ihn kommen würde, trat er doch (aus dem Garten) hinaus und fragte sie: »»»Wen sucht ihr?«
+<sup>4</sup>Wiewohl nun Jesus alles wußte, was über ihn kommen würde, trat er doch (aus dem Garten) hinaus und fragte sie: »Wen sucht ihr?«
 <sup>5</sup>Sie antworteten ihm: »Jesus von Nazareth.« Er sagte zu ihnen: »Der bin ich.« Auch Judas, sein Verräter, stand bei ihnen.
 <sup>6</sup>Als Jesus nun zu ihnen sagte: »Der bin ich!«, wichen sie zurück und fielen zu Boden.
 <sup>7</sup>Da fragte er sie nochmals: »Wen sucht ihr?« Sie sagten: »Jesus von Nazareth.«
