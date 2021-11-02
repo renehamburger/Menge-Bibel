@@ -1349,7 +1349,7 @@ __33__
 <sup>12</sup>Du also, Menschensohn, sage zu deinen Volksgenossen: ›Den Gerechten wird seine Gerechtigkeit nicht retten an dem Tage, wo er in Sünde verfällt; und den Gottlosen wird seine Gottlosigkeit nicht zu Fall bringen an dem Tage, wo er von seiner Gottlosigkeit umkehrt; aber auch der Gerechte kann um seiner Gerechtigkeit willen nicht am Leben erhalten bleiben an dem Tage, wo er in Sünde verfällt.
 <sup>13</sup>Wenn ich dem Gerechten verheiße, er solle ganz gewiß das Leben behalten, und er sich auf seine (bisherige) Gerechtigkeit verläßt und Böses tut, so wird seines ganzen gerechten Tuns nicht mehr gedacht werden, sondern um des Bösen willen, das er verübt hat, um deswillen muß er sterben.
 <sup>14</sup>Und wenn ich dem Gottlosen androhe: ›Du mußt des Todes sterben!‹ und er sich von seiner Sünde abkehrt und nunmehr Recht und Gerechtigkeit übt, so daß er das ihm Verpfändete zurückgibt, Geraubtes wiedererstattet und nach den Satzungen wandelt, deren Beobachtung zum Leben führt, so daß er nichts Böses mehr tut, so soll er gewißlich das Leben behalten und nicht sterben:
-<sup>15</sup>
+<sup>15</sup>so daß er das ihm Verpfändete zurückgibt, Geraubtes wiedererstattet und nach den Satzungen wandelt, deren Beobachtung zum Leben führt, so daß er nichts Böses mehr tut, so soll er gewißlich das Leben behalten und nicht sterben:
 <sup>16</sup>keine von allen Sünden, die er begangen hat, soll ihm noch angerechnet werden; Recht und Gerechtigkeit hat er geübt: er soll gewißlich das Leben behalten!‹
 
 <sup>17</sup>Freilich sagen deine Volksgenossen: ›Das Verfahren des Herrn ist nicht das richtige!‹, während doch ihr eigenes Verfahren nicht das richtige ist.

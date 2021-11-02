@@ -332,7 +332,7 @@ schirmst ihn mit (deiner) Gnade wie mit einem Schilde<span data-param="f3_19_5_1
 ### Hilferuf eines an Leib und Seele Schwerkranken (Erster Bußpsalm)
 
 __6__
-<sup>1</sup>*Dem Musikmeister, mit Saitenspiel*<em>, im Basston; ein Psalm von David.</em>
+<sup>1</sup><em>Dem Musikmeister, mit Saitenspiel, im Basston; ein Psalm von David.</em>
 <sup>2</sup>HERR, nicht in deinem Zorne strafe mich
 <blockquote>
 <blockquote>
@@ -2546,7 +2546,7 @@ der HERR wolle segnen sein Volk mit Frieden<sup title="oder: Heil">&#x2732;</sup
 ### Danklied eines aus Todesnot Geretteten
 
 __30__
-<sup>1</sup>*Ein Psalm, ein Lied zur Tempelweihe*<em>, von David.</em>
+<sup>1</sup><em>Ein Psalm, ein Lied zur Tempelweihe, von David.</em>
 <sup>2</sup>Ich will dich erheben, o HERR, denn du hast aus der Tiefe mich gezogen
 <blockquote>
 <blockquote>
@@ -4095,7 +4095,6 @@ wenn mein Feind nicht über mich jubeln wird,
 <blockquote>
 <blockquote>
 und mich vor deinem Angesicht stehn läßt immerdar.
-* * *
 </blockquote>
 </blockquote>
 <sup>14</sup>Gepriesen sei der HERR, der Gott Israels,
@@ -7208,7 +7207,6 @@ so zahlreich wie das Gras der Erde!
 solange die Sonne scheint, lebe sein Name fort,
 so daß man in ihm sich Segen wünscht
 und alle Völker ihn glücklich preisen!
-* * *
 </blockquote>
 </blockquote>
 <sup>18</sup>Gepriesen sei Gott der HERR, der Gott Israels,
@@ -9519,8 +9517,6 @@ den Hohn von all den vielen Völkern,
 <blockquote>
 <blockquote>
 womit<span data-param="f3_19_89_52B" class="fussnote">B</span> geschmäht sie haben die Fußstapfen<sup title="= Maßnahmen">&#x2732;</sup>
-deines Gesalbten!
-* * *
 </blockquote>
 </blockquote>
 <sup>53</sup>Gepriesen sei der HERR in Ewigkeit! Amen, ja Amen!
@@ -11581,7 +11577,6 @@ bei allen, die sie gefangen hielten.
 und bring uns wieder zusammen aus den Heiden,
 damit wir deinem heiligen Namen danken,
 uns glücklich preisen, deinen Ruhm zu künden!
-* * *
 </blockquote>
 </blockquote>
 <sup>48</sup>Gepriesen sei der HERR, der Gott Israels,
