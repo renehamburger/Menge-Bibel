@@ -37,7 +37,7 @@ __1__
 #### c) Hiobs demütige Ergebung in Gottes Willen
 
 <sup>20</sup>Da stand Hiob auf, zerriß sein Gewand und schor sich das Haupt; dann warf er sich auf die Erde nieder, berührte den Boden mit der Stirn,
-<sup>21</sup>und sagte: »Nacht bin ich aus meiner Mutter Schoß gekommen, und nackt werde ich dorthin zurückkehren; der HERR hat’s gegeben, der HERR hat’s genommen: der Name des HERRN sei gepriesen!«
+<sup>21</sup>und sagte: »Nackt bin ich aus meiner Mutter Schoß gekommen, und nackt werde ich dorthin zurückkehren; der HERR hat’s gegeben, der HERR hat’s genommen: der Name des HERRN sei gepriesen!«
 
 <sup>22</sup>Bei allen diesen Heimsuchungen versündigte sich Hiob nicht und tat nichts Ungebührliches vor Gott.
 
